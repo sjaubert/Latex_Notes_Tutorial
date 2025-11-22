@@ -570,4 +570,43 @@
 \indexentry{Bar Plot|hyperpage}{139}
 \indexentry{xbar@\texttt{xbar}|hyperpage}{139}
 \indexentry{ybar@\texttt{ybar}|hyperpage}{139}
-\indexentry{symbolic coords@\texttt{
+\indexentry{symbolic coords@\texttt{symbolic coords}|hyperpage}{139}
+\indexentry{xtick@\texttt{xtick}|hyperpage}{139}
+\indexentry{ytick@\texttt{ytick}|hyperpage}{139}
+\indexentry{Pie Chart|hyperpage}{139}
+\indexentry{pgf-pie@\texttt{pgf-pie}|hyperpage}{139}
+\indexentry{pie@\texttt{\textbackslash pie}|hyperpage}{139}
+\indexentry{remember picture@\texttt{remember picture}|hyperpage}{140}
+\indexentry{overlay@\texttt{overlay}|hyperpage}{142}
+\indexentry{at@\texttt{at}|hyperpage}{144}
+\indexentry{matrix@\texttt{\textbackslash matrix}|hyperpage}{144}
+\indexentry{matrix of math nodes@\texttt{matrix of math nodes}|hyperpage}{144}
+\indexentry{on background layer@\texttt{on background layer}|hyperpage}{145}
+\indexentry{tikzmark@\texttt{\textbackslash tikzmark}|hyperpage}{145}
+\indexentry{pic cs@\texttt{pic cs}|hyperpage}{145}
+\indexentry{Flow Chart|hyperpage}{145}
+\indexentry{shapes.geometric@\texttt{shapes.geometric}|hyperpage}{145}
+\indexentry{of@\texttt{of}|hyperpage}{146}
+\indexentry{circuitikz@\texttt{circuitikz}|hyperpage}{146}
+\indexentry{DeclareNewLayer@\texttt{\textbackslash DeclareNewLayer}|hyperpage}{150}
+\indexentry{newpairofpagestyles@\texttt{\textbackslash newpairofpagestyles}|hyperpage}{150}
+\indexentry{AddLayersToPageStyle@\texttt{\textbackslash AddLayersToPageStyle}|hyperpage}{150}
+\indexentry{plain@\texttt{plain}|hyperpage}{150}
+\indexentry{Quote|hyperpage}{150}
+\indexentry{dictum@\texttt{\textbackslash dictum}|hyperpage}{150}
+\indexentry{setchapterpreamble@\texttt{\textbackslash setchapterpreamble}|hyperpage}{150}
+\indexentry{pgfornamentline@\texttt{\textbackslash pgfornamentline}|hyperpage}{152}
+\indexentry{CJKutf8@\texttt{CJKutf8}|hyperpage}{152}
+\indexentry{CJK*@\texttt{CJK*}|hyperpage}{152}
+\indexentry{BibTeX@\texttt{BibTeX}|hyperpage}{153}
+\indexentry{bib@\texttt{.bib}|hyperpage}{153}
+\indexentry{biblatex@\texttt{biblatex}|hyperpage}{153}
+\indexentry{printbibliography@\texttt{\textbackslash printbibliography}|hyperpage}{153}
+\indexentry{cite@\texttt{\textbackslash cite}|hyperpage}{153}
+\indexentry{Landscape Mode|hyperpage}{153}
+\indexentry{lscape@\texttt{lscape}|hyperpage}{153}
+\indexentry{landscape@\texttt{landscape}|hyperpage}{153}
+\indexentry{enhanced@\texttt{enhanced}|hyperpage}{156}
+\indexentry{attach boxed title to@\texttt{attach boxed title to}|hyperpage}{156}
+\indexentry{style tile@\texttt{style tile}|hyperpage}{156}
+\indexentry{style@\texttt{style}|hyperpage}{156}
