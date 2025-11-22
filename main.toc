@@ -1,0 +1,290 @@
+\contentsline {chapter}{Preface}{iii}{chapter*.1}%
+\contentsline {chapter}{\numberline {0}Installing or Preparing \LaTeX {}}{1}{chapter.0}%
+\contentsline {paragraph}{\nonumberline Introduction}{1}{paragraph*.4}%
+\contentsline {section}{\numberline {0.1}Online Editor}{1}{section.0.1}%
+\contentsline {paragraph}{\nonumberline Overleaf}{1}{paragraph*.6}%
+\contentsline {section}{\numberline {0.2}Local Installation}{2}{section.0.2}%
+\contentsline {paragraph}{\nonumberline MiKTeX/MacTeX}{2}{paragraph*.8}%
+\contentsline {paragraph}{\nonumberline Choice of IDE}{2}{paragraph*.10}%
+\contentsline {paragraph}{\nonumberline Compiler}{2}{paragraph*.12}%
+\contentsline {chapter}{\numberline {1}The Basic Set-up and Structure of a \LaTeX {} Book}{3}{chapter.1}%
+\contentsline {paragraph}{\nonumberline Introduction}{3}{paragraph*.14}%
+\contentsline {section}{\numberline {1.1}Class, Commands, Options, and Packages}{3}{section.1.1}%
+\contentsline {paragraph}{\nonumberline Class}{3}{paragraph*.16}%
+\contentsline {paragraph}{\nonumberline Commands and Options}{4}{paragraph*.18}%
+\contentsline {paragraph}{\nonumberline Packages}{4}{paragraph*.20}%
+\contentsline {section}{\numberline {1.2}Structure Hierarchy}{5}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Chapters and (Sub-)Sections}{5}{subsection.1.2.1}%
+\contentsline {paragraph}{\nonumberline Chapters, Sections}{5}{paragraph*.22}%
+\contentsline {paragraph}{\nonumberline Chapter Numbering}{5}{paragraph*.24}%
+\contentsline {paragraph}{\nonumberline Subsections, Paragraphs}{6}{paragraph*.26}%
+\contentsline {paragraph}{\nonumberline Referencing Chapters/Sections}{6}{paragraph*.28}%
+\contentsline {subsection}{\numberline {1.2.2}Generating Table of Contents}{7}{subsection.1.2.2}%
+\contentsline {paragraph}{\nonumberline Table of Contents}{7}{paragraph*.30}%
+\contentsline {subsection}{\numberline {1.2.3}Organizing the \TeX {} Files behind the Scenes}{7}{subsection.1.2.3}%
+\contentsline {paragraph}{\nonumberline Include}{7}{paragraph*.32}%
+\contentsline {section}{\numberline {1.3}Testing the Book Layout by Lipsum}{8}{section.1.3}%
+\contentsline {paragraph}{\nonumberline Dummy Text}{8}{paragraph*.34}%
+\contentsline {chapter}{\numberline {2}Formatting of Text and Paragraphs}{11}{chapter.2}%
+\contentsline {paragraph}{\nonumberline Introduction}{11}{paragraph*.36}%
+\contentsline {section}{\numberline {2.1}About Fonts}{11}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}The Three Font Families}{11}{subsection.2.1.1}%
+\contentsline {paragraph}{\nonumberline (Sans) Serif, Typewriter}{11}{paragraph*.38}%
+\contentsline {subsection}{\numberline {2.1.2}Changing the Actual Font for a Font Family}{12}{subsection.2.1.2}%
+\contentsline {paragraph}{\nonumberline Font Libraries}{12}{paragraph*.41}%
+\contentsline {section}{\numberline {2.2}Text Attributes}{13}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Font Size}{13}{subsection.2.2.1}%
+\contentsline {paragraph}{\nonumberline Size Commands}{13}{paragraph*.43}%
+\contentsline {paragraph}{\nonumberline Fixing Font Size}{14}{paragraph*.46}%
+\contentsline {subsection}{\numberline {2.2.2}Font Shapes}{15}{subsection.2.2.2}%
+\contentsline {paragraph}{\nonumberline Italic, Bold, and More}{15}{paragraph*.48}%
+\contentsline {subsection}{\numberline {2.2.3}Text Color}{16}{subsection.2.2.3}%
+\contentsline {paragraph}{\nonumberline Package for More Colors}{16}{paragraph*.51}%
+\contentsline {paragraph}{\nonumberline Self-defined Colors}{17}{paragraph*.53}%
+\contentsline {section}{\numberline {2.3}Paragraphs and Positioning}{17}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Paragraphs and Line Breaks}{17}{subsection.2.3.1}%
+\contentsline {paragraph}{\nonumberline New Lines}{17}{paragraph*.55}%
+\contentsline {subsection}{\numberline {2.3.2}Justification and Indents}{18}{subsection.2.3.2}%
+\contentsline {paragraph}{\nonumberline Ragged and Centering}{18}{paragraph*.57}%
+\contentsline {paragraph}{\nonumberline Flushing (Environments)}{19}{paragraph*.59}%
+\contentsline {paragraph}{\nonumberline Indents, Paragraph Skip}{20}{paragraph*.61}%
+\contentsline {paragraph}{\nonumberline Improved Typesetting}{20}{paragraph*.63}%
+\contentsline {subsection}{\numberline {2.3.3}Lengths and Sizes}{20}{subsection.2.3.3}%
+\contentsline {paragraph}{\nonumberline Length Units}{20}{paragraph*.65}%
+\contentsline {paragraph}{\nonumberline Length Values, Setting Lengths}{21}{paragraph*.68}%
+\contentsline {subsection}{\numberline {2.3.4}Horizontal and Vertical Spaces}{21}{subsection.2.3.4}%
+\contentsline {paragraph}{\nonumberline Horizontal/Vertical Spaces}{21}{paragraph*.71}%
+\contentsline {paragraph}{\nonumberline Starred Spaces}{23}{paragraph*.73}%
+\contentsline {paragraph}{\nonumberline Fill and Stretch}{23}{paragraph*.75}%
+\contentsline {paragraph}{\nonumberline Skips}{24}{paragraph*.77}%
+\contentsline {subsection}{\numberline {2.3.5}Boxes and Rules}{24}{subsection.2.3.5}%
+\contentsline {paragraph}{\nonumberline Basic Boxes}{24}{paragraph*.79}%
+\contentsline {paragraph}{\nonumberline Advanced Boxes}{24}{paragraph*.81}%
+\contentsline {paragraph}{\nonumberline Paragraph Boxes}{25}{paragraph*.83}%
+\contentsline {paragraph}{\nonumberline Raising Boxes}{25}{paragraph*.85}%
+\contentsline {paragraph}{\nonumberline Phantom}{25}{paragraph*.87}%
+\contentsline {paragraph}{\nonumberline Rules}{26}{paragraph*.89}%
+\contentsline {section}{\numberline {2.4}Verbatim Mode}{26}{section.2.4}%
+\contentsline {paragraph}{\nonumberline Verbatim}{26}{paragraph*.91}%
+\contentsline {paragraph}{\nonumberline Code Snippets}{27}{paragraph*.93}%
+\contentsline {chapter}{\numberline {3}The Fundamentals of Writing Mathematics in \LaTeX {}}{29}{chapter.3}%
+\contentsline {paragraph}{\nonumberline Introduction}{29}{paragraph*.95}%
+\contentsline {section}{\numberline {3.1}The Two Math Modes}{29}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Inline Math Mode and Basic Math Syntax}{29}{subsection.3.1.1}%
+\contentsline {paragraph}{\nonumberline Inline Math}{29}{paragraph*.97}%
+\contentsline {paragraph}{\nonumberline Basic Operators}{30}{paragraph*.99}%
+\contentsline {paragraph}{\nonumberline Superscripts and Subscripts}{30}{paragraph*.101}%
+\contentsline {paragraph}{\nonumberline Fractions, Smash}{30}{paragraph*.103}%
+\contentsline {paragraph}{\nonumberline Common Mathematical Functions, Symbols}{30}{paragraph*.105}%
+\contentsline {subsection}{\numberline {3.1.2}Display Math Mode}{32}{subsection.3.1.2}%
+\contentsline {paragraph}{\nonumberline Equation Environment}{32}{paragraph*.108}%
+\contentsline {paragraph}{\nonumberline Align Environment}{32}{paragraph*.110}%
+\contentsline {paragraph}{\nonumberline Split Scope}{33}{paragraph*.112}%
+\contentsline {paragraph}{\nonumberline Aligned Scope}{34}{paragraph*.114}%
+\contentsline {paragraph}{\nonumberline Starred Equations}{34}{paragraph*.116}%
+\contentsline {paragraph}{\nonumberline Suppressing Individual Equation Number}{34}{paragraph*.118}%
+\contentsline {paragraph}{\nonumberline Equation Numbers Referencing}{35}{paragraph*.120}%
+\contentsline {paragraph}{\nonumberline Display Breaking}{36}{paragraph*.122}%
+\contentsline {paragraph}{\nonumberline Display Style in Inline Mode}{36}{paragraph*.124}%
+\contentsline {section}{\numberline {3.2}Advanced Mathematical Expressions and Notations}{37}{section.3.2}%
+\contentsline {paragraph}{\nonumberline Helper Packages for Mathematics}{37}{paragraph*.126}%
+\contentsline {subsection}{\numberline {3.2.1}Calculus}{37}{subsection.3.2.1}%
+\contentsline {paragraph}{\nonumberline Differentiation and Integral Symbols}{37}{paragraph*.128}%
+\contentsline {subsection}{\numberline {3.2.2}Logic and Description}{38}{subsection.3.2.2}%
+\contentsline {paragraph}{\nonumberline Logic and Set Symbols}{38}{paragraph*.131}%
+\contentsline {paragraph}{\nonumberline Arrows and Braces}{38}{paragraph*.134}%
+\contentsline {paragraph}{\nonumberline Delimiters}{38}{paragraph*.137}%
+\contentsline {subsection}{\numberline {3.2.3}Vectors and Matrices}{41}{subsection.3.2.3}%
+\contentsline {paragraph}{\nonumberline Denoting Vectors}{41}{paragraph*.139}%
+\contentsline {paragraph}{\nonumberline Unit Vectors}{41}{paragraph*.141}%
+\contentsline {paragraph}{\nonumberline Matrices and Determinants}{41}{paragraph*.143}%
+\contentsline {paragraph}{\nonumberline Arrays}{43}{paragraph*.145}%
+\contentsline {subsection}{\numberline {3.2.4}Other Formatting Trivia}{44}{subsection.3.2.4}%
+\contentsline {paragraph}{\nonumberline Absolute Value and Norm}{44}{paragraph*.147}%
+\contentsline {paragraph}{\nonumberline Special Math Characters}{44}{paragraph*.149}%
+\contentsline {paragraph}{\nonumberline SI Units}{44}{paragraph*.151}%
+\contentsline {paragraph}{\nonumberline System of Equations}{44}{paragraph*.153}%
+\contentsline {paragraph}{\nonumberline Spacing in Math Mode}{46}{paragraph*.155}%
+\contentsline {paragraph}{\nonumberline Dashes}{46}{paragraph*.158}%
+\contentsline {paragraph}{\nonumberline Size}{46}{paragraph*.160}%
+\contentsline {paragraph}{\nonumberline Coloring for Math}{47}{paragraph*.162}%
+\contentsline {paragraph}{\nonumberline Cancellation}{47}{paragraph*.164}%
+\contentsline {chapter}{\numberline {4}Various Special Structures in \LaTeX {}}{49}{chapter.4}%
+\contentsline {paragraph}{\nonumberline Introduction}{49}{paragraph*.166}%
+\contentsline {section}{\numberline {4.1}Lists}{49}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Unordered Lists}{49}{subsection.4.1.1}%
+\contentsline {paragraph}{\nonumberline Unordered Lists}{49}{paragraph*.168}%
+\contentsline {subsection}{\numberline {4.1.2}Ordered Lists}{50}{subsection.4.1.2}%
+\contentsline {paragraph}{\nonumberline Numbered Lists}{50}{paragraph*.170}%
+\contentsline {paragraph}{\nonumberline Customizing Labels for Lists}{51}{paragraph*.172}%
+\contentsline {section}{\numberline {4.2}Figures and Tables}{52}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Figures}{52}{subsection.4.2.1}%
+\contentsline {paragraph}{\nonumberline Figures and Including Images}{52}{paragraph*.174}%
+\contentsline {paragraph}{\nonumberline Subfigures}{53}{paragraph*.177}%
+\contentsline {paragraph}{\nonumberline Continued Floats}{54}{paragraph*.180}%
+\contentsline {subsection}{\numberline {4.2.2}Tables}{56}{subsection.4.2.2}%
+\contentsline {paragraph}{\nonumberline Tabular Structures}{56}{paragraph*.183}%
+\contentsline {paragraph}{\nonumberline Caption by the Side}{57}{paragraph*.186}%
+\contentsline {paragraph}{\nonumberline Shared Numbering between Figures and Tables}{59}{paragraph*.189}%
+\contentsline {section}{\numberline {4.3}Minipages and Multiple Columns}{59}{section.4.3}%
+\contentsline {paragraph}{\nonumberline Minipages}{59}{paragraph*.191}%
+\contentsline {paragraph}{\nonumberline Parallel Columns}{60}{paragraph*.193}%
+\contentsline {paragraph}{\nonumberline Multiple Columns}{62}{paragraph*.195}%
+\contentsline {paragraph}{\nonumberline Two Columns Set-up}{64}{paragraph*.197}%
+\contentsline {paragraph}{\nonumberline In the Same Page}{64}{paragraph*.199}%
+\contentsline {chapter}{\numberline {5}Self-defined Commands and Environments}{65}{chapter.5}%
+\contentsline {paragraph}{\nonumberline Introduction}{65}{paragraph*.201}%
+\contentsline {section}{\numberline {5.1}Self-defined Commands}{65}{section.5.1}%
+\contentsline {paragraph}{\nonumberline Defining New Commands}{65}{paragraph*.203}%
+\contentsline {paragraph}{\nonumberline Optional Arguments}{66}{paragraph*.205}%
+\contentsline {paragraph}{\nonumberline Renewing Commands}{66}{paragraph*.207}%
+\contentsline {section}{\numberline {5.2}Flow Control}{67}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}If-then-else Structures}{67}{subsection.5.2.1}%
+\contentsline {paragraph}{\nonumberline If-then-else Statements}{67}{paragraph*.209}%
+\contentsline {paragraph}{\nonumberline Parsing and Evaluating Math}{68}{paragraph*.211}%
+\contentsline {paragraph}{\nonumberline Equality Test for Decimals}{68}{paragraph*.213}%
+\contentsline {paragraph}{\nonumberline Logical Operators}{68}{paragraph*.215}%
+\contentsline {paragraph}{\nonumberline Checking Strings and Definitions}{69}{paragraph*.217}%
+\contentsline {subsection}{\numberline {5.2.2}For Loops}{69}{subsection.5.2.2}%
+\contentsline {paragraph}{\nonumberline For Loops}{69}{paragraph*.219}%
+\contentsline {paragraph}{\nonumberline Parallel For Loops}{70}{paragraph*.221}%
+\contentsline {paragraph}{\nonumberline Nested Loops}{70}{paragraph*.223}%
+\contentsline {paragraph}{\nonumberline Counting}{71}{paragraph*.225}%
+\contentsline {paragraph}{\nonumberline Evaluating by the Side}{71}{paragraph*.227}%
+\contentsline {paragraph}{\nonumberline Remembering the Last Value}{71}{paragraph*.229}%
+\contentsline {paragraph}{\nonumberline Loop Breaking}{72}{paragraph*.231}%
+\contentsline {section}{\numberline {5.3}Self-defined Environments}{73}{section.5.3}%
+\contentsline {paragraph}{\nonumberline New Environments}{73}{paragraph*.234}%
+\contentsline {paragraph}{\nonumberline Renewing Environments}{74}{paragraph*.236}%
+\contentsline {chapter}{\numberline {6}More on Book Layout Design}{75}{chapter.6}%
+\contentsline {paragraph}{\nonumberline Introduction}{75}{paragraph*.238}%
+\contentsline {section}{\numberline {6.1}Page Configuration}{75}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Some Universal Settings for the Pages}{75}{subsection.6.1.1}%
+\contentsline {paragraph}{\nonumberline Two-sided Book}{75}{paragraph*.240}%
+\contentsline {paragraph}{\nonumberline Division Factor}{76}{paragraph*.242}%
+\contentsline {paragraph}{\nonumberline Line Spread}{76}{paragraph*.244}%
+\contentsline {subsection}{\numberline {6.1.2}Page Style}{76}{subsection.6.1.2}%
+\contentsline {paragraph}{\nonumberline Headers and Footers}{76}{paragraph*.246}%
+\contentsline {paragraph}{\nonumberline Separate File for Styles and Commands}{77}{paragraph*.248}%
+\contentsline {paragraph}{\nonumberline Setting Font Style for Elements}{77}{paragraph*.250}%
+\contentsline {paragraph}{\nonumberline Separating Line for Headers}{78}{paragraph*.252}%
+\contentsline {paragraph}{\nonumberline Format for the Chapter Mark}{78}{paragraph*.254}%
+\contentsline {section}{\numberline {6.2}Appearance of Chapters and Sections}{78}{section.6.2}%
+\contentsline {paragraph}{\nonumberline Prefix and Format of Chapter Headings}{78}{paragraph*.256}%
+\contentsline {paragraph}{\nonumberline Format for Section Numbers}{79}{paragraph*.258}%
+\contentsline {paragraph}{\nonumberline Format for Section Line}{79}{paragraph*.260}%
+\contentsline {paragraph}{\nonumberline End of Chapter Headings}{80}{paragraph*.262}%
+\contentsline {paragraph}{\nonumberline Start of Chapter Headings}{80}{paragraph*.264}%
+\contentsline {paragraph}{\nonumberline Default Sans-serif}{80}{paragraph*.266}%
+\contentsline {section}{\numberline {6.3}Title Page and Front/Back Matter}{81}{section.6.3}%
+\contentsline {paragraph}{\nonumberline Title Page}{81}{paragraph*.268}%
+\contentsline {paragraph}{\nonumberline Front/Main/Back Matter}{81}{paragraph*.270}%
+\contentsline {paragraph}{\nonumberline Back of Title}{82}{paragraph*.272}%
+\contentsline {section}{\numberline {6.4}Notes and Markings}{83}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Footnotes, Margin Notes, and Line Numbers}{83}{subsection.6.4.1}%
+\contentsline {paragraph}{\nonumberline Footnotes}{83}{paragraph*.274}%
+\contentsline {paragraph}{\nonumberline Multiple Footnote Marks}{84}{paragraph*.276}%
+\contentsline {paragraph}{\nonumberline Separating Line for Footnotes}{84}{paragraph*.278}%
+\contentsline {paragraph}{\nonumberline Referencing Footnote}{84}{paragraph*.280}%
+\contentsline {paragraph}{\nonumberline Margin Notes}{84}{paragraph*.282}%
+\contentsline {paragraph}{\nonumberline Line Numbers}{84}{paragraph*.284}%
+\contentsline {subsection}{\numberline {6.4.2}Hyperlinks and Bookmarks}{85}{subsection.6.4.2}%
+\contentsline {paragraph}{\nonumberline Hyperlinks}{85}{paragraph*.286}%
+\contentsline {paragraph}{\nonumberline Highlighting Options for Links}{85}{paragraph*.288}%
+\contentsline {paragraph}{\nonumberline PDF Bookmarks}{86}{paragraph*.290}%
+\contentsline {subsection}{\numberline {6.4.3}Index Page}{86}{subsection.6.4.3}%
+\contentsline {paragraph}{\nonumberline Indices}{86}{paragraph*.292}%
+\contentsline {chapter}{\numberline {7}Framed Theorems and Exercises}{89}{chapter.7}%
+\contentsline {paragraph}{\nonumberline Introduction}{89}{paragraph*.294}%
+\contentsline {section}{\numberline {7.1}Colored Boxes for Theorems and Proofs}{89}{section.7.1}%
+\contentsline {paragraph}{\nonumberline Making Colored Boxes}{89}{paragraph*.296}%
+\contentsline {paragraph}{\nonumberline Colored Numbered Theorems/Examples}{90}{paragraph*.298}%
+\contentsline {paragraph}{\nonumberline Shared Numbering for Definitions and the Others}{92}{paragraph*.300}%
+\contentsline {paragraph}{\nonumberline Proofs}{93}{paragraph*.302}%
+\contentsline {section}{\numberline {7.2}Typesetting Exercises and Answers}{95}{section.7.2}%
+\contentsline {paragraph}{\nonumberline Exercises}{95}{paragraph*.306}%
+\contentsline {paragraph}{\nonumberline Headers for Exercises}{95}{paragraph*.308}%
+\contentsline {paragraph}{\nonumberline Answers}{96}{paragraph*.310}%
+\contentsline {paragraph}{\nonumberline Headers for Answers}{97}{paragraph*.312}%
+\contentsline {chapter}{\numberline {8}Plotting with TikZ (Part I)}{99}{chapter.8}%
+\contentsline {paragraph}{\nonumberline Introduction}{99}{paragraph*.314}%
+\contentsline {section}{\numberline {8.1}Basic Drawing Syntax}{99}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}Coordinates and Nodes}{99}{subsection.8.1.1}%
+\contentsline {paragraph}{\nonumberline Cartesian Coordinates}{99}{paragraph*.316}%
+\contentsline {paragraph}{\nonumberline Polar Coordinates}{100}{paragraph*.319}%
+\contentsline {subsection}{\numberline {8.1.2}Drawing Paths}{101}{subsection.8.1.2}%
+\contentsline {paragraph}{\nonumberline Straight Lines}{101}{paragraph*.322}%
+\contentsline {paragraph}{\nonumberline Relative Coordinates}{102}{paragraph*.325}%
+\contentsline {paragraph}{\nonumberline Fill}{103}{paragraph*.328}%
+\contentsline {subsection}{\numberline {8.1.3}Shapes}{105}{subsection.8.1.3}%
+\contentsline {paragraph}{\nonumberline Rectangles, Circles, Ellipses}{105}{paragraph*.333}%
+\contentsline {paragraph}{\nonumberline Rotation}{106}{paragraph*.336}%
+\contentsline {paragraph}{\nonumberline Clipping}{107}{paragraph*.339}%
+\contentsline {paragraph}{\nonumberline Perpendicular Lines}{108}{paragraph*.342}%
+\contentsline {paragraph}{\nonumberline Angles}{110}{paragraph*.346}%
+\contentsline {paragraph}{\nonumberline Arcs}{111}{paragraph*.349}%
+\contentsline {section}{\numberline {8.2}Advanced Controls on Paths}{111}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}Curves}{111}{subsection.8.2.1}%
+\contentsline {paragraph}{\nonumberline Bézier Control Curves}{111}{paragraph*.352}%
+\contentsline {paragraph}{\nonumberline In and Out Angles}{112}{paragraph*.355}%
+\contentsline {paragraph}{\nonumberline Intersection}{113}{paragraph*.358}%
+\contentsline {subsection}{\numberline {8.2.2}Decorations}{114}{subsection.8.2.2}%
+\contentsline {paragraph}{\nonumberline Decorations/Morphing}{114}{paragraph*.363}%
+\contentsline {paragraph}{\nonumberline Decorating Subpaths}{115}{paragraph*.366}%
+\contentsline {paragraph}{\nonumberline Positioning and Extent of Decorations}{116}{paragraph*.369}%
+\contentsline {subsection}{\numberline {8.2.3}Arrows}{116}{subsection.8.2.3}%
+\contentsline {paragraph}{\nonumberline Arrow Tips}{116}{paragraph*.372}%
+\contentsline {paragraph}{\nonumberline Arrow in the Middle}{117}{paragraph*.375}%
+\contentsline {paragraph}{\nonumberline Edges}{118}{paragraph*.378}%
+\contentsline {section}{\numberline {8.3}Styles and Pics}{119}{section.8.3}%
+\contentsline {paragraph}{\nonumberline Styles and Nodes}{119}{paragraph*.385}%
+\contentsline {paragraph}{\nonumberline Pics - Small Pictures}{121}{paragraph*.388}%
+\contentsline {paragraph}{\nonumberline Styles for Every Node/Path}{122}{paragraph*.391}%
+\contentsline {paragraph}{\nonumberline Path Building}{123}{paragraph*.394}%
+\contentsline {section}{\numberline {8.4}Plotting Functions}{125}{section.8.4}%
+\contentsline {paragraph}{\nonumberline Axis Settings}{125}{paragraph*.397}%
+\contentsline {paragraph}{\nonumberline Plotting Simple Functions}{126}{paragraph*.400}%
+\contentsline {paragraph}{\nonumberline Parametric Equations}{127}{paragraph*.405}%
+\contentsline {paragraph}{\nonumberline Vector Fields}{129}{paragraph*.408}%
+\contentsline {chapter}{\numberline {9}Plotting with TikZ (Part II)}{131}{chapter.9}%
+\contentsline {paragraph}{\nonumberline Introduction}{131}{paragraph*.411}%
+\contentsline {section}{\numberline {9.1}Advanced Axis Options}{131}{section.9.1}%
+\contentsline {subsection}{\numberline {9.1.1}Axis Scales}{131}{subsection.9.1.1}%
+\contentsline {paragraph}{\nonumberline Axis Units}{131}{paragraph*.413}%
+\contentsline {paragraph}{\nonumberline Coordinate Rotation}{132}{paragraph*.416}%
+\contentsline {subsection}{\numberline {9.1.2}3D Plotting}{132}{subsection.9.1.2}%
+\contentsline {paragraph}{\nonumberline 3D Coordinate Axes}{132}{paragraph*.419}%
+\contentsline {paragraph}{\nonumberline Surface Plots}{134}{paragraph*.422}%
+\contentsline {paragraph}{\nonumberline 3D Spheres and Arcs}{135}{paragraph*.425}%
+\contentsline {section}{\numberline {9.2}Data Visualization}{137}{section.9.2}%
+\contentsline {paragraph}{\nonumberline Line Charts}{137}{paragraph*.428}%
+\contentsline {paragraph}{\nonumberline Bar Plots}{139}{paragraph*.431}%
+\contentsline {paragraph}{\nonumberline Pie Chart}{139}{paragraph*.434}%
+\contentsline {section}{\numberline {9.3}Referencing between TikZ Pictures}{140}{section.9.3}%
+\contentsline {paragraph}{\nonumberline Remembering Names and Overlay}{140}{paragraph*.437}%
+\contentsline {section}{\numberline {9.4}Matrices in TikZ}{144}{section.9.4}%
+\contentsline {paragraph}{\nonumberline Matrices of Nodes}{144}{paragraph*.440}%
+\contentsline {section}{\numberline {9.5}Flow Charts}{145}{section.9.5}%
+\contentsline {paragraph}{\nonumberline Flow Charts with Shapes}{145}{paragraph*.443}%
+\contentsline {section}{\numberline {9.6}Electrical Circuit Diagrams}{146}{section.9.6}%
+\contentsline {paragraph}{\nonumberline Electrical Circuits with Components}{146}{paragraph*.446}%
+\contentsline {chapter}{\numberline {10}Miscellaneous}{149}{chapter.10}%
+\contentsline {paragraph}{\nonumberline Introduction}{149}{paragraph*.449}%
+\contentsline {section}{\numberline {10.1}Custom Page Style and Design}{149}{section.10.1}%
+\contentsline {paragraph}{\nonumberline Inserting Pictures to (Chapter) Pages}{149}{paragraph*.451}%
+\contentsline {section}{\numberline {10.2}Quotation Boxes}{150}{section.10.2}%
+\contentsline {paragraph}{\nonumberline Dictum at the Start of Chapter}{150}{paragraph*.453}%
+\contentsline {paragraph}{\nonumberline Beautiful Quotes}{151}{paragraph*.455}%
+\contentsline {section}{\numberline {10.3}Asian Characters Support}{152}{section.10.3}%
+\contentsline {paragraph}{\nonumberline Chinese/Japanese/Korean Layer}{152}{paragraph*.457}%
+\contentsline {paragraph}{\nonumberline XeLaTeX and LuaLaTeX}{152}{paragraph*.459}%
+\contentsline {section}{\numberline {10.4}Organizing References by BibTeX}{153}{section.10.4}%
+\contentsline {paragraph}{\nonumberline Importing and Citing References}{153}{paragraph*.461}%
+\contentsline {section}{\numberline {10.5}Landscape Mode}{153}{section.10.5}%
+\contentsline {paragraph}{\nonumberline Landscape Mode}{153}{paragraph*.463}%
+\contentsline {section}{\numberline {10.6}Fine-tuning Colored Boxes}{156}{section.10.6}%
+\contentsline {paragraph}{\nonumberline Enhanced Texture for Colored Boxes}{156}{paragraph*.466}%
+\contentsline {chapter}{Epilogue}{157}{chapter*.467}%
+\contentsline {chapter}{Index}{159}{section*.468}%
+\contentsline {chapter}{Answers to Exercises}{171}{chapter*.470}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
