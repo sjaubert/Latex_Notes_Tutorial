@@ -1,0 +1,91 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{kottwitz2024latex}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=0544de9c1973348c55bb6b3b5be68c2e}{%
+           family={Kottwitz},
+           familyi={K\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Packt Publishing}%
+      }
+      \strng{namehash}{0544de9c1973348c55bb6b3b5be68c2e}
+      \strng{fullhash}{0544de9c1973348c55bb6b3b5be68c2e}
+      \strng{fullhashraw}{0544de9c1973348c55bb6b3b5be68c2e}
+      \strng{bibnamehash}{0544de9c1973348c55bb6b3b5be68c2e}
+      \strng{authorbibnamehash}{0544de9c1973348c55bb6b3b5be68c2e}
+      \strng{authornamehash}{0544de9c1973348c55bb6b3b5be68c2e}
+      \strng{authorfullhash}{0544de9c1973348c55bb6b3b5be68c2e}
+      \strng{authorfullhashraw}{0544de9c1973348c55bb6b3b5be68c2e}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781835080320}
+      \field{title}{LaTeX Cookbook: Over 100 Practical, Ready-to-use LaTeX Recipes for Instant Solutions}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://books.google.com.tw/books?id=N_Cb0AEACAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.com.tw/books?id=N_Cb0AEACAAJ
+      \endverb
+    \endentry
+    \entry{lamott1995bird}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=66a37972d4120aafe9877ecfcf69e29e}{%
+           family={Lamott},
+           familyi={L\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Knopf Doubleday Publishing Group}%
+      }
+      \strng{namehash}{66a37972d4120aafe9877ecfcf69e29e}
+      \strng{fullhash}{66a37972d4120aafe9877ecfcf69e29e}
+      \strng{fullhashraw}{66a37972d4120aafe9877ecfcf69e29e}
+      \strng{bibnamehash}{66a37972d4120aafe9877ecfcf69e29e}
+      \strng{authorbibnamehash}{66a37972d4120aafe9877ecfcf69e29e}
+      \strng{authornamehash}{66a37972d4120aafe9877ecfcf69e29e}
+      \strng{authorfullhash}{66a37972d4120aafe9877ecfcf69e29e}
+      \strng{authorfullhashraw}{66a37972d4120aafe9877ecfcf69e29e}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780385480017}
+      \field{title}{Bird by Bird: Some Instructions on Writing and Life}
+      \field{year}{1995}
+      \verb{urlraw}
+      \verb https://books.google.com.tw/books?id=t9cuMLk15PYC
+      \endverb
+      \verb{url}
+      \verb https://books.google.com.tw/books?id=t9cuMLk15PYC
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

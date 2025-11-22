@@ -1,680 +1,680 @@
 \begin{theindex}
-
-  \item \texttt{++}, \hyperpage{102}
-  \item \texttt{-{}-}, \hyperpage{101}
-  \item \texttt{/.}, \hyperpage{119}
-  \item \texttt{[]}, \hyperpage{4}
-  \item \texttt{\$\$}, \hyperpage{29}, \hyperpage{122}
-  \item \texttt{\%}, \hyperpage{5}, \hyperpage{70}
-  \item \texttt{\&}, \hyperpage{32}
-  \item \texttt{\^}, \hyperpage{30}
-  \item \texttt{\_}, \hyperpage{30}
-  \item \texttt{\textbackslash \textbackslash}, \hyperpage{14}, 
+\bigskip\par\penalty-50\textbf{Symbols}\\[\medskipamount]
+  \item \texttt{++},~\hyperpage{102}
+  \item \texttt{-{}-},~\hyperpage{101}
+  \item \texttt{/.},~\hyperpage{119}
+  \item \texttt{[]},~\hyperpage{4}
+  \item \texttt{\$\$},~\hyperpage{29}, \hyperpage{122}
+  \item \texttt{\%},~\hyperpage{5}, \hyperpage{70}
+  \item \texttt{\&},~\hyperpage{32}
+  \item \texttt{\^},~\hyperpage{30}
+  \item \texttt{\_},~\hyperpage{30}
+  \item \texttt{\textbackslash \textbackslash},~\hyperpage{14}, 
 		\hyperpage{32}
-  \item \texttt{\textbackslash(\textbackslash)}, \hyperpage{29}
-  \item \texttt{\textbackslash[\textbackslash]}, \hyperpage{34}
-  \item \texttt{\{\}}, \hyperpage{4}, \hyperpage{14}
+  \item \texttt{\textbackslash(\textbackslash)},~\hyperpage{29}
+  \item \texttt{\textbackslash[\textbackslash]},~\hyperpage{34}
+  \item \texttt{\{\}},~\hyperpage{4}, \hyperpage{14}
 
   \indexspace
-
-  \item \texttt{\textbackslash abs}, \hyperpage{44}
-  \item \texttt{\textbackslash AddLayersToPageStyle}, \hyperpage{150}
-  \item \texttt{\textbackslash addplot}, \hyperpage{126}
-  \item \texttt{\textbackslash addplot3}, \hyperpage{129}
-  \item \texttt{\textbackslash addtokomafont}, \hyperpage{79}
-  \item \texttt{\textbackslash addvspace}, \hyperpage{80}
-  \item \texttt{adjustbox}, \hyperpage{58}
-  \item \texttt{align}, \hyperpage{32}
-  \item \texttt{align*}, \hyperpage{34}
-  \item \texttt{aligned}, \hyperpage{34}
-  \item Alignment (Text: top, bottom, center), \hyperpage{25}
-  \item \texttt{\textbackslash allowbreak}, \hyperpage{36}
-  \item \texttt{\textbackslash allowdisplaybreaks}, \hyperpage{36}
-  \item \texttt{amsmath}, \hyperpage{37}
-  \item \texttt{amssymb}, \hyperpage{37}
-  \item \texttt{amsthm}, \hyperpage{93}
-  \item Anchor, \hyperpage{120}
-  \item \texttt{\textbackslash AND}, \hyperpage{68}
-  \item Angle, \hyperpage{110}
-  \item \texttt{angle}, \hyperpage{110}
-  \item \texttt{angles}, \hyperpage{110}
-  \item \texttt{Answer}, \hyperpage{96}
-  \item \texttt{answerdelayed}, \hyperpage{96}
-  \item \texttt{\textbackslash AnswerHeader}, \hyperpage{97}
-  \item \texttt{append style}, \hyperpage{134}
-  \item Arc, \hyperpage{111}
-  \item \texttt{arc}, \hyperpage{111}
-  \item Argument, \hyperpage{4}
-  \item \texttt{array}, \hyperpage{43}
-  \item \texttt{arrows.meta}, \hyperpage{116}
-  \item \texttt{at}, \hyperpage{144}
-  \item \texttt{attach boxed title to}, \hyperpage{156}
-  \item \texttt{\textbackslash author}, \hyperpage{81}
-  \item \texttt{\textbackslash autodot}, \hyperpage{78}
-  \item \texttt{\textbackslash automark}, \hyperpage{77}
-  \item \texttt{\textbackslash autoref}, \hyperpage{85}
-  \item \texttt{axis}, \hyperpage{125}
-  \item \texttt{axis cs}, \hyperpage{127}
-  \item \texttt{axis description cs}, \hyperpage{125}
-  \item \texttt{axis lines}, \hyperpage{126}
-
-  \indexspace
-
-  \item Back Matter, \hyperpage{81}
-  \item \texttt{\textbackslash backmatter}, \hyperpage{81}
-  \item Bar Plot, \hyperpage{139}
-  \item \texttt{\textbackslash baselineskip}, \hyperpage{21}
-  \item \texttt{\textbackslash begin}, \hyperpage{19}
-  \item \texttt{\textbackslash bfseries}, \hyperpage{15}
-  \item \texttt{.bib}, \hyperpage{153}
-  \item \texttt{biblatex}, \hyperpage{153}
-  \item \texttt{BibTeX}, \hyperpage{153}
-  \item \texttt{\textbackslash bigskip}, \hyperpage{24}
-  \item \texttt{\textbackslash bigskipamount}, \hyperpage{24}
-  \item Blank Line, \hyperpage{17}
-  \item \texttt{\textbackslash bm}, \hyperpage{41}
-  \item \texttt{Bmatrix}, \hyperpage{41}
-  \item \texttt{bmatrix}, \hyperpage{41}
-  \item Bold, \hyperpage{15}
-  \item \texttt{bookmark}, \hyperpage{86}
-  \item Boolean, \hyperpage{67}
-  \item \texttt{boxrule}, \hyperpage{90}
-  \item \texttt{boxsep}, \hyperpage{90}
-  \item \texttt{breakable}, \hyperpage{90}
-  \item \texttt{\textbackslash breakforeach}, \hyperpage{72}
-  \item Bézier Control Curve, \hyperpage{112}
+\bigskip\par\penalty-50\textbf{A}\\[\medskipamount]
+  \item \texttt{\textbackslash abs},~\hyperpage{44}
+  \item \texttt{\textbackslash AddLayersToPageStyle},~\hyperpage{150}
+  \item \texttt{\textbackslash addplot},~\hyperpage{126}
+  \item \texttt{\textbackslash addplot3},~\hyperpage{129}
+  \item \texttt{\textbackslash addtokomafont},~\hyperpage{79}
+  \item \texttt{\textbackslash addvspace},~\hyperpage{80}
+  \item \texttt{adjustbox},~\hyperpage{58}
+  \item \texttt{align},~\hyperpage{32}
+  \item \texttt{align*},~\hyperpage{34}
+  \item \texttt{aligned},~\hyperpage{34}
+  \item Alignment (Text: top, bottom, center),~\hyperpage{25}
+  \item \texttt{\textbackslash allowbreak},~\hyperpage{36}
+  \item \texttt{\textbackslash allowdisplaybreaks},~\hyperpage{36}
+  \item \texttt{amsmath},~\hyperpage{37}
+  \item \texttt{amssymb},~\hyperpage{37}
+  \item \texttt{amsthm},~\hyperpage{93}
+  \item Anchor,~\hyperpage{120}
+  \item \texttt{\textbackslash AND},~\hyperpage{68}
+  \item Angle,~\hyperpage{110}
+  \item \texttt{angle},~\hyperpage{110}
+  \item \texttt{angles},~\hyperpage{110}
+  \item \texttt{Answer},~\hyperpage{96}
+  \item \texttt{answerdelayed},~\hyperpage{96}
+  \item \texttt{\textbackslash AnswerHeader},~\hyperpage{97}
+  \item \texttt{append style},~\hyperpage{134}
+  \item Arc,~\hyperpage{111}
+  \item \texttt{arc},~\hyperpage{111}
+  \item Argument,~\hyperpage{4}
+  \item \texttt{array},~\hyperpage{43}
+  \item \texttt{arrows.meta},~\hyperpage{116}
+  \item \texttt{at},~\hyperpage{144}
+  \item \texttt{attach boxed title to},~\hyperpage{156}
+  \item \texttt{\textbackslash author},~\hyperpage{81}
+  \item \texttt{\textbackslash autodot},~\hyperpage{78}
+  \item \texttt{\textbackslash automark},~\hyperpage{77}
+  \item \texttt{\textbackslash autoref},~\hyperpage{85}
+  \item \texttt{axis},~\hyperpage{125}
+  \item \texttt{axis cs},~\hyperpage{127}
+  \item \texttt{axis description cs},~\hyperpage{125}
+  \item \texttt{axis lines},~\hyperpage{126}
 
   \indexspace
-
-  \item \texttt{calc}, \hyperpage{108}
-  \item \texttt{\textbackslash cancel}, \hyperpage{47}
-  \item \texttt{\textbackslash caption}, \hyperpage{52}
-  \item \texttt{captionbeside}, \hyperpage{57}
-  \item \texttt{captions}, \hyperpage{58}
-  \item Cartesian Coordinates, \hyperpage{100}
-  \item \texttt{cases}, \hyperpage{44}
-  \item \texttt{\textbackslash cdot}, \hyperpage{30}
-  \item \texttt{\textbackslash cdots}, \hyperpage{38}
-  \item \texttt{center}, \hyperpage{19}
-  \item \texttt{\textbackslash centering}, \hyperpage{19}
-  \item \texttt{cfoot}, \hyperpage{76}
-  \item \texttt{\textbackslash chapapp}, \hyperpage{78}
-  \item Chapter, \hyperpage{5}
-  \item \texttt{\textbackslash chapter}, \hyperpage{5}
-  \item \texttt{\textbackslash chapter*}, \hyperpage{6}
-  \item \texttt{\textbackslash chapterformat}, \hyperpage{79}
-  \item \texttt{\textbackslash chapterheadendvskip}, \hyperpage{80}
-  \item \texttt{\textbackslash chapterheadstartvskip}, \hyperpage{80}
-  \item \texttt{\textbackslash chapterlinesformat}, \hyperpage{80}
-  \item \texttt{\textbackslash chaptermarkformat}, \hyperpage{78}
-  \item \texttt{chapterprefix}, \hyperpage{78}
-  \item \texttt{chead}, \hyperpage{76}
-  \item \texttt{circle}, \hyperpage{105}
-  \item \texttt{circuitikz}, \hyperpage{146}
-  \item \texttt{\textbackslash cite}, \hyperpage{153}
-  \item \texttt{CJK*}, \hyperpage{152}
-  \item \texttt{CJKutf8}, \hyperpage{152}
-  \item Class, \hyperpage{3}
-  \item \texttt{\textbackslash cleardoubleoddpage}, \hyperpage{82}
-  \item \texttt{clip}, \hyperpage{107}
-  \item \texttt{colback}, \hyperpage{90}
-  \item \texttt{\textbackslash colchunk}, \hyperpage{62}
-  \item \texttt{colframe}, \hyperpage{90}
-  \item \texttt{\textbackslash color}, \hyperpage{16}
-  \item Color Gradient, \hyperpage{122}
-  \item Color Mix, \hyperpage{17}
-  \item \texttt{colorbar}, \hyperpage{135}
-  \item \texttt{colorlinks}, \hyperpage{85}
-  \item \texttt{\textbackslash colplacechunks}, \hyperpage{62}
-  \item \texttt{coltitle}, \hyperpage{90}
-  \item \texttt{\textbackslash columnsep}, \hyperpage{21}
-  \item \texttt{\textbackslash columnwidth}, \hyperpage{21}
-  \item Command, \hyperpage{4}
-  \item Comment, \hyperpage{5}
-  \item \texttt{\textbackslash ContinuedFloat}, \hyperpage{54}
-  \item \texttt{contour gnuplot}, \hyperpage{135}
-  \item Coordinate, \hyperpage{99}
-  \item \texttt{\textbackslash coordinate}, \hyperpage{100}
-  \item \texttt{coordinate}, \hyperpage{103}
-  \item \texttt{count}, \hyperpage{71}
-  \item Counter, \hyperpage{6}
-  \item \texttt{.csv}, \hyperpage{137}
-  \item Curve, \hyperpage{112}
-  \item \texttt{cycle}, \hyperpage{102}
+\bigskip\par\penalty-50\textbf{B}\\[\medskipamount]
+  \item Back Matter,~\hyperpage{81}
+  \item \texttt{\textbackslash backmatter},~\hyperpage{81}
+  \item Bar Plot,~\hyperpage{139}
+  \item \texttt{\textbackslash baselineskip},~\hyperpage{21}
+  \item \texttt{\textbackslash begin},~\hyperpage{19}
+  \item \texttt{\textbackslash bfseries},~\hyperpage{15}
+  \item \texttt{.bib},~\hyperpage{153}
+  \item \texttt{biblatex},~\hyperpage{153}
+  \item \texttt{BibTeX},~\hyperpage{153}
+  \item \texttt{\textbackslash bigskip},~\hyperpage{24}
+  \item \texttt{\textbackslash bigskipamount},~\hyperpage{24}
+  \item Blank Line,~\hyperpage{17}
+  \item \texttt{\textbackslash bm},~\hyperpage{41}
+  \item \texttt{Bmatrix},~\hyperpage{41}
+  \item \texttt{bmatrix},~\hyperpage{41}
+  \item Bold,~\hyperpage{15}
+  \item \texttt{bookmark},~\hyperpage{86}
+  \item Boolean,~\hyperpage{67}
+  \item \texttt{boxrule},~\hyperpage{90}
+  \item \texttt{boxsep},~\hyperpage{90}
+  \item \texttt{breakable},~\hyperpage{90}
+  \item \texttt{\textbackslash breakforeach},~\hyperpage{72}
+  \item Bézier Control Curve,~\hyperpage{112}
 
   \indexspace
-
-  \item Dash, \hyperpage{46}
-  \item \texttt{dashed}, \hyperpage{102}
-  \item \texttt{\textbackslash date}, \hyperpage{81}
-  \item \texttt{\textbackslash ddots}, \hyperpage{38}
-  \item \texttt{\textbackslash DeclareNewLayer}, \hyperpage{150}
-  \item \texttt{decorate}, \hyperpage{115}
-  \item Decoration, \hyperpage{114}
-  \item \texttt{decoration}, \hyperpage{115}
-  \item \texttt{decorations.markings}, \hyperpage{117}
-  \item \texttt{decorations.pathmorphing}, \hyperpage{115}
-  \item \texttt{\textbackslash definecolor}, \hyperpage{17}
-  \item \texttt{\textbackslash dfrac}, \hyperpage{30}
-  \item \texttt{\textbackslash dictum}, \hyperpage{150}
-  \item \texttt{\textbackslash dimexpr}, \hyperpage{68}
-  \item Display Math Mode, \hyperpage{32}
-  \item \texttt{\textbackslash displaystyle}, \hyperpage{36}
-  \item \texttt{DIV} Factor, \hyperpage{76}
-  \item \texttt{document}, \hyperpage{5}
-  \item \texttt{\textbackslash documentclass}, \hyperpage{3}
-  \item \texttt{domain}, \hyperpage{126}
-  \item \texttt{dotted}, \hyperpage{102}
-  \item \texttt{\textbackslash draw}, \hyperpage{102}
-  \item Dummy Text, \hyperpage{8}
-
-  \indexspace
-
-  \item \texttt{edge}, \hyperpage{118}
-  \item \texttt{ellipse}, \hyperpage{105}
-  \item \texttt{\textbackslash else}, \hyperpage{67}
-  \item \texttt{\textbackslash emph}, \hyperpage{16}
-  \item \texttt{empty}, \hyperpage{83}
-  \item \texttt{\textbackslash end}, \hyperpage{19}
-  \item \texttt{enhanced}, \hyperpage{156}
-  \item \texttt{enlarge limits}, \hyperpage{125}
-  \item \texttt{enumerate}, \hyperpage{50}
-  \item \texttt{enumitem}, \hyperpage{51}
-  \item Environment, \hyperpage{19}
-  \item \texttt{\textbackslash equal}, \hyperpage{69}
-  \item \texttt{equation}, \hyperpage{32}
-  \item Equation Number(ing), \hyperpage{33}
-  \item \texttt{equation*}, \hyperpage{34}
-  \item \texttt{evaluate}, \hyperpage{71}
-  \item Even-numbered, \hyperpage{75}
-  \item \texttt{every}, \hyperpage{122}
-  \item Exercise, \hyperpage{95}
-  \item \texttt{Exercise}, \hyperpage{95}
-  \item \texttt{exercise}, \hyperpage{95}
-  \item \texttt{\textbackslash ExerciseHeader}, \hyperpage{95}
-
-  \indexspace
-
-  \item \texttt{\textbackslash fbox}, \hyperpage{24}
-  \item \texttt{\textbackslash fboxrule}, \hyperpage{21}
-  \item \texttt{\textbackslash fboxsep}, \hyperpage{21}
-  \item \texttt{figure}, \hyperpage{52}
-  \item \texttt{\textbackslash fill}, \hyperpage{23}, \hyperpage{103}
-  \item \texttt{fill}, \hyperpage{103}
-  \item \texttt{\textbackslash filldraw}, \hyperpage{103}
-  \item Float, \hyperpage{52}
-  \item Flow Chart, \hyperpage{145}
-  \item Flow Control, \hyperpage{67}
-  \item \texttt{flushleft}, \hyperpage{19}
-  \item \texttt{flushright}, \hyperpage{19}
-  \item Font, \hyperpage{12}
-  \item Font Family, \hyperpage{11}
-  \item Font Shape/Style, \hyperpage{15}
-  \item Font Size, \hyperpage{13}
-  \item \texttt{fontenc}, \hyperpage{4}
-  \item \texttt{\textbackslash fontsize}, \hyperpage{14}
-  \item \texttt{fonttitle}, \hyperpage{91}
-  \item Footer, \hyperpage{76}
-  \item Footnote, \hyperpage{83}
-  \item \texttt{\textbackslash footnote}, \hyperpage{83}
-  \item \texttt{\textbackslash footnotemark}, \hyperpage{83}
-  \item \texttt{\textbackslash footnotesize}, \hyperpage{13}
-  \item \texttt{\textbackslash footnotetext}, \hyperpage{83}
-  \item \texttt{footsepline}, \hyperpage{78}
-  \item For Loop, \hyperpage{69}
-  \item \texttt{\textbackslash foreach}, \hyperpage{69}
-  \item \texttt{\textbackslash frac}, \hyperpage{30}
-  \item Fraction, \hyperpage{30}
-  \item \texttt{\textbackslash framebox}, \hyperpage{24}
-  \item Front Matter, \hyperpage{81}
-  \item \texttt{\textbackslash frontmatter}, \hyperpage{81}
+\bigskip\par\penalty-50\textbf{C}\\[\medskipamount]
+  \item \texttt{calc},~\hyperpage{108}
+  \item \texttt{\textbackslash cancel},~\hyperpage{47}
+  \item \texttt{\textbackslash caption},~\hyperpage{52}
+  \item \texttt{captionbeside},~\hyperpage{57}
+  \item \texttt{captions},~\hyperpage{58}
+  \item Cartesian Coordinates,~\hyperpage{100}
+  \item \texttt{cases},~\hyperpage{44}
+  \item \texttt{\textbackslash cdot},~\hyperpage{30}
+  \item \texttt{\textbackslash cdots},~\hyperpage{38}
+  \item \texttt{center},~\hyperpage{19}
+  \item \texttt{\textbackslash centering},~\hyperpage{19}
+  \item \texttt{cfoot},~\hyperpage{76}
+  \item \texttt{\textbackslash chapapp},~\hyperpage{78}
+  \item Chapter,~\hyperpage{5}
+  \item \texttt{\textbackslash chapter},~\hyperpage{5}
+  \item \texttt{\textbackslash chapter*},~\hyperpage{6}
+  \item \texttt{\textbackslash chapterformat},~\hyperpage{79}
+  \item \texttt{\textbackslash chapterheadendvskip},~\hyperpage{80}
+  \item \texttt{\textbackslash chapterheadstartvskip},~\hyperpage{80}
+  \item \texttt{\textbackslash chapterlinesformat},~\hyperpage{80}
+  \item \texttt{\textbackslash chaptermarkformat},~\hyperpage{78}
+  \item \texttt{chapterprefix},~\hyperpage{78}
+  \item \texttt{chead},~\hyperpage{76}
+  \item \texttt{circle},~\hyperpage{105}
+  \item \texttt{circuitikz},~\hyperpage{146}
+  \item \texttt{\textbackslash cite},~\hyperpage{153}
+  \item \texttt{CJK*},~\hyperpage{152}
+  \item \texttt{CJKutf8},~\hyperpage{152}
+  \item Class,~\hyperpage{3}
+  \item \texttt{\textbackslash cleardoubleoddpage},~\hyperpage{82}
+  \item \texttt{clip},~\hyperpage{107}
+  \item \texttt{colback},~\hyperpage{90}
+  \item \texttt{\textbackslash colchunk},~\hyperpage{62}
+  \item \texttt{colframe},~\hyperpage{90}
+  \item \texttt{\textbackslash color},~\hyperpage{16}
+  \item Color Gradient,~\hyperpage{122}
+  \item Color Mix,~\hyperpage{17}
+  \item \texttt{colorbar},~\hyperpage{135}
+  \item \texttt{colorlinks},~\hyperpage{85}
+  \item \texttt{\textbackslash colplacechunks},~\hyperpage{62}
+  \item \texttt{coltitle},~\hyperpage{90}
+  \item \texttt{\textbackslash columnsep},~\hyperpage{21}
+  \item \texttt{\textbackslash columnwidth},~\hyperpage{21}
+  \item Command,~\hyperpage{4}
+  \item Comment,~\hyperpage{5}
+  \item \texttt{\textbackslash ContinuedFloat},~\hyperpage{54}
+  \item \texttt{contour gnuplot},~\hyperpage{135}
+  \item Coordinate,~\hyperpage{99}
+  \item \texttt{\textbackslash coordinate},~\hyperpage{100}
+  \item \texttt{coordinate},~\hyperpage{103}
+  \item \texttt{count},~\hyperpage{71}
+  \item Counter,~\hyperpage{6}
+  \item \texttt{.csv},~\hyperpage{137}
+  \item Curve,~\hyperpage{112}
+  \item \texttt{cycle},~\hyperpage{102}
 
   \indexspace
-
-  \item GitHub, \hyperpage{1}
-  \item Graph, \hyperpage{125}
-  \item \texttt{graphics}, \hyperpage{52}
-
-  \indexspace
-
-  \item \texttt{\textbackslash hat}, \hyperpage{41}
-  \item Header, \hyperpage{76}
-  \item \texttt{headsepline}, \hyperpage{78}
-  \item \texttt{\textbackslash hfill}, \hyperpage{23}
-  \item \texttt{\textbackslash hline}, \hyperpage{43}
-  \item Horizontal Box, \hyperpage{24}
-  \item Horizontal Mode, \hyperpage{17}
-  \item Horizontal Space, \hyperpage{21}
-  \item \texttt{\textbackslash href}, \hyperpage{85}
-  \item \texttt{\textbackslash hrule}, \hyperpage{26}
-  \item \texttt{\textbackslash hspace}, \hyperpage{21}
-  \item \texttt{\textbackslash hspace*}, \hyperpage{23}
-  \item \texttt{\textbackslash Huge}, \hyperpage{13}
-  \item \texttt{\textbackslash huge}, \hyperpage{13}
-  \item Hyperlink, \hyperpage{85}
-  \item \texttt{hyperref}, \hyperpage{85}
-  \item \texttt{\textbackslash hypersetup}, \hyperpage{85}
-
-  \indexspace
-
-  \item \texttt{\textbackslash if}, \hyperpage{67}
-  \item If-then-else, \hyperpage{67}
-  \item \texttt{ifoot}, \hyperpage{76}
-  \item \texttt{ifthen}, \hyperpage{67}
-  \item \texttt{\textbackslash ifthenelse}, \hyperpage{67}
-  \item \texttt{ihead}, \hyperpage{76}
-  \item Image, \hyperpage{52}
-  \item \texttt{imakeidx}, \hyperpage{86}
-  \item \texttt{in}, \hyperpage{112}
-  \item \texttt{\textbackslash include}, \hyperpage{7}
-  \item \texttt{\textbackslash includegraphics}, \hyperpage{52}
-  \item Indent, \hyperpage{20}
-  \item \texttt{\textbackslash indent}, \hyperpage{20}
-  \item \texttt{\textbackslash index}, \hyperpage{86}
-  \item Index Page, \hyperpage{86}
-  \item Inline Math Mode, \hyperpage{29}
-  \item Inner Margin, \hyperpage{75}
-  \item \texttt{inner sep}, \hyperpage{101}
-  \item \texttt{\textbackslash int}, \hyperpage{30}
-  \item Integrated Development Environment (IDE), \hyperpage{2}
-  \item Interleaf Page, \hyperpage{76}
-  \item \texttt{intersections}, \hyperpage{113}
-  \item \texttt{\textbackslash isundefined}, \hyperpage{69}
-  \item Italic, \hyperpage{15}
-  \item \texttt{\textbackslash item}, \hyperpage{49}
-  \item \texttt{itemize}, \hyperpage{49}
-  \item \texttt{\textbackslash itemsep}, \hyperpage{21}
-  \item \texttt{\textbackslash itshape}, \hyperpage{15}
+\bigskip\par\penalty-50\textbf{D}\\[\medskipamount]
+  \item Dash,~\hyperpage{46}
+  \item \texttt{dashed},~\hyperpage{102}
+  \item \texttt{\textbackslash date},~\hyperpage{81}
+  \item \texttt{\textbackslash ddots},~\hyperpage{38}
+  \item \texttt{\textbackslash DeclareNewLayer},~\hyperpage{150}
+  \item \texttt{decorate},~\hyperpage{115}
+  \item Decoration,~\hyperpage{114}
+  \item \texttt{decoration},~\hyperpage{115}
+  \item \texttt{decorations.markings},~\hyperpage{117}
+  \item \texttt{decorations.pathmorphing},~\hyperpage{115}
+  \item \texttt{\textbackslash definecolor},~\hyperpage{17}
+  \item \texttt{\textbackslash dfrac},~\hyperpage{30}
+  \item \texttt{\textbackslash dictum},~\hyperpage{150}
+  \item \texttt{\textbackslash dimexpr},~\hyperpage{68}
+  \item Display Math Mode,~\hyperpage{32}
+  \item \texttt{\textbackslash displaystyle},~\hyperpage{36}
+  \item \texttt{DIV} Factor,~\hyperpage{76}
+  \item \texttt{document},~\hyperpage{5}
+  \item \texttt{\textbackslash documentclass},~\hyperpage{3}
+  \item \texttt{domain},~\hyperpage{126}
+  \item \texttt{dotted},~\hyperpage{102}
+  \item \texttt{\textbackslash draw},~\hyperpage{102}
+  \item Dummy Text,~\hyperpage{8}
 
   \indexspace
+\bigskip\par\penalty-50\textbf{E}\\[\medskipamount]
+  \item \texttt{edge},~\hyperpage{118}
+  \item \texttt{ellipse},~\hyperpage{105}
+  \item \texttt{\textbackslash else},~\hyperpage{67}
+  \item \texttt{\textbackslash emph},~\hyperpage{16}
+  \item \texttt{empty},~\hyperpage{83}
+  \item \texttt{\textbackslash end},~\hyperpage{19}
+  \item \texttt{enhanced},~\hyperpage{156}
+  \item \texttt{enlarge limits},~\hyperpage{125}
+  \item \texttt{enumerate},~\hyperpage{50}
+  \item \texttt{enumitem},~\hyperpage{51}
+  \item Environment,~\hyperpage{19}
+  \item \texttt{\textbackslash equal},~\hyperpage{69}
+  \item \texttt{equation},~\hyperpage{32}
+  \item Equation Number(ing),~\hyperpage{33}
+  \item \texttt{equation*},~\hyperpage{34}
+  \item \texttt{evaluate},~\hyperpage{71}
+  \item Even-numbered,~\hyperpage{75}
+  \item \texttt{every},~\hyperpage{122}
+  \item Exercise,~\hyperpage{95}
+  \item \texttt{Exercise},~\hyperpage{95}
+  \item \texttt{exercise},~\hyperpage{95}
+  \item \texttt{\textbackslash ExerciseHeader},~\hyperpage{95}
 
-  \item Justification (Text: left, right, fully, center), 
+  \indexspace
+\bigskip\par\penalty-50\textbf{F}\\[\medskipamount]
+  \item \texttt{\textbackslash fbox},~\hyperpage{24}
+  \item \texttt{\textbackslash fboxrule},~\hyperpage{21}
+  \item \texttt{\textbackslash fboxsep},~\hyperpage{21}
+  \item \texttt{figure},~\hyperpage{52}
+  \item \texttt{\textbackslash fill},~\hyperpage{23}, \hyperpage{103}
+  \item \texttt{fill},~\hyperpage{103}
+  \item \texttt{\textbackslash filldraw},~\hyperpage{103}
+  \item Float,~\hyperpage{52}
+  \item Flow Chart,~\hyperpage{145}
+  \item Flow Control,~\hyperpage{67}
+  \item \texttt{flushleft},~\hyperpage{19}
+  \item \texttt{flushright},~\hyperpage{19}
+  \item Font,~\hyperpage{12}
+  \item Font Family,~\hyperpage{11}
+  \item Font Shape/Style,~\hyperpage{15}
+  \item Font Size,~\hyperpage{13}
+  \item \texttt{fontenc},~\hyperpage{4}
+  \item \texttt{\textbackslash fontsize},~\hyperpage{14}
+  \item \texttt{fonttitle},~\hyperpage{91}
+  \item Footer,~\hyperpage{76}
+  \item Footnote,~\hyperpage{83}
+  \item \texttt{\textbackslash footnote},~\hyperpage{83}
+  \item \texttt{\textbackslash footnotemark},~\hyperpage{83}
+  \item \texttt{\textbackslash footnotesize},~\hyperpage{13}
+  \item \texttt{\textbackslash footnotetext},~\hyperpage{83}
+  \item \texttt{footsepline},~\hyperpage{78}
+  \item For Loop,~\hyperpage{69}
+  \item \texttt{\textbackslash foreach},~\hyperpage{69}
+  \item \texttt{\textbackslash frac},~\hyperpage{30}
+  \item Fraction,~\hyperpage{30}
+  \item \texttt{\textbackslash framebox},~\hyperpage{24}
+  \item Front Matter,~\hyperpage{81}
+  \item \texttt{\textbackslash frontmatter},~\hyperpage{81}
+
+  \indexspace
+\bigskip\par\penalty-50\textbf{G}\\[\medskipamount]
+  \item GitHub,~\hyperpage{1}
+  \item Graph,~\hyperpage{125}
+  \item \texttt{graphics},~\hyperpage{52}
+
+  \indexspace
+\bigskip\par\penalty-50\textbf{H}\\[\medskipamount]
+  \item \texttt{\textbackslash hat},~\hyperpage{41}
+  \item Header,~\hyperpage{76}
+  \item \texttt{headsepline},~\hyperpage{78}
+  \item \texttt{\textbackslash hfill},~\hyperpage{23}
+  \item \texttt{\textbackslash hline},~\hyperpage{43}
+  \item Horizontal Box,~\hyperpage{24}
+  \item Horizontal Mode,~\hyperpage{17}
+  \item Horizontal Space,~\hyperpage{21}
+  \item \texttt{\textbackslash href},~\hyperpage{85}
+  \item \texttt{\textbackslash hrule},~\hyperpage{26}
+  \item \texttt{\textbackslash hspace},~\hyperpage{21}
+  \item \texttt{\textbackslash hspace*},~\hyperpage{23}
+  \item \texttt{\textbackslash Huge},~\hyperpage{13}
+  \item \texttt{\textbackslash huge},~\hyperpage{13}
+  \item Hyperlink,~\hyperpage{85}
+  \item \texttt{hyperref},~\hyperpage{85}
+  \item \texttt{\textbackslash hypersetup},~\hyperpage{85}
+
+  \indexspace
+\bigskip\par\penalty-50\textbf{I}\\[\medskipamount]
+  \item \texttt{\textbackslash if},~\hyperpage{67}
+  \item If-then-else,~\hyperpage{67}
+  \item \texttt{ifoot},~\hyperpage{76}
+  \item \texttt{ifthen},~\hyperpage{67}
+  \item \texttt{\textbackslash ifthenelse},~\hyperpage{67}
+  \item \texttt{ihead},~\hyperpage{76}
+  \item Image,~\hyperpage{52}
+  \item \texttt{imakeidx},~\hyperpage{86}
+  \item \texttt{in},~\hyperpage{112}
+  \item \texttt{\textbackslash include},~\hyperpage{7}
+  \item \texttt{\textbackslash includegraphics},~\hyperpage{52}
+  \item Indent,~\hyperpage{20}
+  \item \texttt{\textbackslash indent},~\hyperpage{20}
+  \item \texttt{\textbackslash index},~\hyperpage{86}
+  \item Index Page,~\hyperpage{86}
+  \item Inline Math Mode,~\hyperpage{29}
+  \item Inner Margin,~\hyperpage{75}
+  \item \texttt{inner sep},~\hyperpage{101}
+  \item \texttt{\textbackslash int},~\hyperpage{30}
+  \item Integrated Development Environment (IDE),~\hyperpage{2}
+  \item Interleaf Page,~\hyperpage{76}
+  \item \texttt{intersections},~\hyperpage{113}
+  \item \texttt{\textbackslash isundefined},~\hyperpage{69}
+  \item Italic,~\hyperpage{15}
+  \item \texttt{\textbackslash item},~\hyperpage{49}
+  \item \texttt{itemize},~\hyperpage{49}
+  \item \texttt{\textbackslash itemsep},~\hyperpage{21}
+  \item \texttt{\textbackslash itshape},~\hyperpage{15}
+
+  \indexspace
+\bigskip\par\penalty-50\textbf{J}\\[\medskipamount]
+  \item Justification (Text: left, right, fully, center),~
 		\hyperpage{18}
 
   \indexspace
-
-  \item Keyword, \hyperpage{90}
-  \item KOMA-Script, \hyperpage{3}
-  \item \texttt{\textbackslash KOMAoptions}, \hyperpage{4}
+\bigskip\par\penalty-50\textbf{K}\\[\medskipamount]
+  \item Keyword,~\hyperpage{90}
+  \item KOMA-Script,~\hyperpage{3}
+  \item \texttt{\textbackslash KOMAoptions},~\hyperpage{4}
 
   \indexspace
-
-  \item \texttt{\textbackslash label}, \hyperpage{6}, \hyperpage{35}, 
+\bigskip\par\penalty-50\textbf{L}\\[\medskipamount]
+  \item \texttt{\textbackslash label},~\hyperpage{6}, \hyperpage{35}, 
 		\hyperpage{52}
-  \item \texttt{label}, \hyperpage{101}
-  \item \texttt{landscape}, \hyperpage{153}
-  \item Landscape Mode, \hyperpage{153}
-  \item \texttt{\textbackslash LARGE}, \hyperpage{13}
-  \item \texttt{\textbackslash Large}, \hyperpage{13}
-  \item \texttt{\textbackslash large}, \hyperpage{13}
-  \item \texttt{lastexercise}, \hyperpage{96}
-  \item \LaTeX, \hyperpage{1}
-  \item \texttt{Latex}, \hyperpage{117}
-  \item \LaTeX{} Font Catalogue, \hyperpage{12}
-  \item \texttt{\textbackslash ldots}, \hyperpage{38}
-  \item \texttt{\textbackslash left}, \hyperpage{38}
-  \item \texttt{\textbackslash leftmark}, \hyperpage{77}
-  \item \texttt{\textbackslash legend}, \hyperpage{127}
-  \item Length, \hyperpage{21}
-  \item Length Unit, \hyperpage{20}
-  \item \texttt{\textbackslash lengthtest}, \hyperpage{68}
-  \item \texttt{let in}, \hyperpage{109}
-  \item Line, \hyperpage{101}
-  \item Line Break, \hyperpage{17}
-  \item Line Chart, \hyperpage{137}
-  \item Line Number, \hyperpage{84}
-  \item Line Skip/Spacing, \hyperpage{17}
-  \item Line Spread, \hyperpage{76}
-  \item \texttt{line width}, \hyperpage{103}
-  \item \texttt{lineno}, \hyperpage{84}
-  \item \texttt{\textbackslash linenumbers}, \hyperpage{84}
-  \item \texttt{\textbackslash linespread}, \hyperpage{76}
-  \item \texttt{\textbackslash linewidth}, \hyperpage{21}
-  \item \texttt{\textbackslash lipsum}, \hyperpage{8}
-  \item \texttt{lipsum}, \hyperpage{8}
-  \item List, \hyperpage{49}
-  \item \texttt{listings}, \hyperpage{27}
-  \item Lorem Ipsum (Lipsum), \hyperpage{8}
-  \item \texttt{\textbackslash lowertitleback}, \hyperpage{82}
-  \item \texttt{lscape}, \hyperpage{153}
-  \item \texttt{\textbackslash lstinline}, \hyperpage{27}
-  \item \texttt{lstlisting}, \hyperpage{27}
-  \item LuaLaTeX, \hyperpage{2}
+  \item \texttt{label},~\hyperpage{101}
+  \item \texttt{landscape},~\hyperpage{153}
+  \item Landscape Mode,~\hyperpage{153}
+  \item \texttt{\textbackslash LARGE},~\hyperpage{13}
+  \item \texttt{\textbackslash Large},~\hyperpage{13}
+  \item \texttt{\textbackslash large},~\hyperpage{13}
+  \item \texttt{lastexercise},~\hyperpage{96}
+  \item \LaTeX,~\hyperpage{1}
+  \item \texttt{Latex},~\hyperpage{117}
+  \item \LaTeX{} Font Catalogue,~\hyperpage{12}
+  \item \texttt{\textbackslash ldots},~\hyperpage{38}
+  \item \texttt{\textbackslash left},~\hyperpage{38}
+  \item \texttt{\textbackslash leftmark},~\hyperpage{77}
+  \item \texttt{\textbackslash legend},~\hyperpage{127}
+  \item Length,~\hyperpage{21}
+  \item Length Unit,~\hyperpage{20}
+  \item \texttt{\textbackslash lengthtest},~\hyperpage{68}
+  \item \texttt{let in},~\hyperpage{109}
+  \item Line,~\hyperpage{101}
+  \item Line Break,~\hyperpage{17}
+  \item Line Chart,~\hyperpage{137}
+  \item Line Number,~\hyperpage{84}
+  \item Line Skip/Spacing,~\hyperpage{17}
+  \item Line Spread,~\hyperpage{76}
+  \item \texttt{line width},~\hyperpage{103}
+  \item \texttt{lineno},~\hyperpage{84}
+  \item \texttt{\textbackslash linenumbers},~\hyperpage{84}
+  \item \texttt{\textbackslash linespread},~\hyperpage{76}
+  \item \texttt{\textbackslash linewidth},~\hyperpage{21}
+  \item \texttt{\textbackslash lipsum},~\hyperpage{8}
+  \item \texttt{lipsum},~\hyperpage{8}
+  \item List,~\hyperpage{49}
+  \item \texttt{listings},~\hyperpage{27}
+  \item Lorem Ipsum (Lipsum),~\hyperpage{8}
+  \item \texttt{\textbackslash lowertitleback},~\hyperpage{82}
+  \item \texttt{lscape},~\hyperpage{153}
+  \item \texttt{\textbackslash lstinline},~\hyperpage{27}
+  \item \texttt{lstlisting},~\hyperpage{27}
+  \item LuaLaTeX,~\hyperpage{2}
 
   \indexspace
-
-  \item Macro, \hyperpage{65}
-  \item MacTeX, \hyperpage{2}
-  \item Main Text Area, \hyperpage{76}
-  \item \texttt{\textbackslash mainmatter}, \hyperpage{82}
-  \item \texttt{\textbackslash makeatletter}, \hyperpage{59}
-  \item \texttt{\textbackslash makeatother}, \hyperpage{59}
-  \item \texttt{\textbackslash makebox}, \hyperpage{24}
-  \item \texttt{\textbackslash makeindex}, \hyperpage{86}
-  \item \texttt{\textbackslash maketitle}, \hyperpage{81}
-  \item Margin, \hyperpage{75}
-  \item Margin Note, \hyperpage{84}
-  \item \texttt{\textbackslash marginpar}, \hyperpage{84}
-  \item \texttt{markings}, \hyperpage{118}
-  \item Math Mode, \hyperpage{29}
-  \item \texttt{\textbackslash mathbb}, \hyperpage{44}
-  \item \texttt{\textbackslash mathcal}, \hyperpage{44}
-  \item \texttt{\textbackslash mathcolor}, \hyperpage{47}
-  \item \texttt{\textbackslash mathrm}, \hyperpage{44}
-  \item \texttt{mathtools}, \hyperpage{37}
-  \item Matrix, \hyperpage{41}
-  \item \texttt{\textbackslash matrix}, \hyperpage{144}
-  \item \texttt{matrix}, \hyperpage{41}
-  \item \texttt{matrix of math nodes}, \hyperpage{144}
-  \item \texttt{\textbackslash maybesf}, \hyperpage{80}
-  \item \texttt{\textbackslash mbox}, \hyperpage{24}
-  \item \texttt{\textbackslash mdseries}, \hyperpage{15}
-  \item \texttt{\textbackslash medskip}, \hyperpage{24}
-  \item \texttt{\textbackslash medskipamount}, \hyperpage{24}
-  \item \texttt{microtype}, \hyperpage{20}
-  \item \texttt{midway}, \hyperpage{102}
-  \item MiKTeX, \hyperpage{2}
-  \item \texttt{minimum height}, \hyperpage{120}
-  \item \texttt{minimum width}, \hyperpage{120}
-  \item \texttt{minipage}, \hyperpage{59}
-  \item \texttt{multicols}, \hyperpage{62}
-  \item \texttt{multline}, \hyperpage{34}
-
-  \indexspace
-
-  \item \texttt{name intersections}, \hyperpage{113}
-  \item \texttt{name path}, \hyperpage{113}
-  \item Nested List, \hyperpage{50}
-  \item Nested Loop, \hyperpage{70}
-  \item New Line, \hyperpage{17}
-  \item \texttt{\textbackslash newboolean}, \hyperpage{97}
-  \item \texttt{\textbackslash newcommand*}, \hyperpage{65}
-  \item \texttt{\textbackslash newenvironment*}, \hyperpage{73}
-  \item \texttt{\textbackslash newline}, \hyperpage{17}
-  \item \texttt{\textbackslash newpairofpagestyles}, \hyperpage{150}
-  \item \texttt{\textbackslash newtcbtheorem}, \hyperpage{91}
-  \item \texttt{\textbackslash newtcolorbox}, \hyperpage{89}
-  \item Node, \hyperpage{99}
-  \item \texttt{\textbackslash node}, \hyperpage{100}
-  \item \texttt{\textbackslash noindent}, \hyperpage{20}
-  \item \texttt{\textbackslash nolinenumbers}, \hyperpage{84}
-  \item \texttt{\textbackslash nonumber}, \hyperpage{34}
-  \item \texttt{\textbackslash norm}, \hyperpage{44}
-  \item \texttt{\textbackslash normalsize}, \hyperpage{13}
-  \item \texttt{\textbackslash NOT}, \hyperpage{69}
-  \item \texttt{number within}, \hyperpage{91}
-  \item Numbered List, \hyperpage{50}
-  \item Numbering (Chapters, Sections, etc.), \hyperpage{5}
-  \item \texttt{\textbackslash numexpr}, \hyperpage{68}
+\bigskip\par\penalty-50\textbf{M}\\[\medskipamount]
+  \item Macro,~\hyperpage{65}
+  \item MacTeX,~\hyperpage{2}
+  \item Main Text Area,~\hyperpage{76}
+  \item \texttt{\textbackslash mainmatter},~\hyperpage{82}
+  \item \texttt{\textbackslash makeatletter},~\hyperpage{59}
+  \item \texttt{\textbackslash makeatother},~\hyperpage{59}
+  \item \texttt{\textbackslash makebox},~\hyperpage{24}
+  \item \texttt{\textbackslash makeindex},~\hyperpage{86}
+  \item \texttt{\textbackslash maketitle},~\hyperpage{81}
+  \item Margin,~\hyperpage{75}
+  \item Margin Note,~\hyperpage{84}
+  \item \texttt{\textbackslash marginpar},~\hyperpage{84}
+  \item \texttt{markings},~\hyperpage{118}
+  \item Math Mode,~\hyperpage{29}
+  \item \texttt{\textbackslash mathbb},~\hyperpage{44}
+  \item \texttt{\textbackslash mathcal},~\hyperpage{44}
+  \item \texttt{\textbackslash mathcolor},~\hyperpage{47}
+  \item \texttt{\textbackslash mathrm},~\hyperpage{44}
+  \item \texttt{mathtools},~\hyperpage{37}
+  \item Matrix,~\hyperpage{41}
+  \item \texttt{\textbackslash matrix},~\hyperpage{144}
+  \item \texttt{matrix},~\hyperpage{41}
+  \item \texttt{matrix of math nodes},~\hyperpage{144}
+  \item \texttt{\textbackslash maybesf},~\hyperpage{80}
+  \item \texttt{\textbackslash mbox},~\hyperpage{24}
+  \item \texttt{\textbackslash mdseries},~\hyperpage{15}
+  \item \texttt{\textbackslash medskip},~\hyperpage{24}
+  \item \texttt{\textbackslash medskipamount},~\hyperpage{24}
+  \item \texttt{microtype},~\hyperpage{20}
+  \item \texttt{midway},~\hyperpage{102}
+  \item MiKTeX,~\hyperpage{2}
+  \item \texttt{minimum height},~\hyperpage{120}
+  \item \texttt{minimum width},~\hyperpage{120}
+  \item \texttt{minipage},~\hyperpage{59}
+  \item \texttt{multicols},~\hyperpage{62}
+  \item \texttt{multline},~\hyperpage{34}
 
   \indexspace
-
-  \item Odd-numbered, \hyperpage{75}
-  \item \texttt{of}, \hyperpage{146}
-  \item \texttt{ofoot}, \hyperpage{76}
-  \item \texttt{ohead}, \hyperpage{76}
-  \item \texttt{on background layer}, \hyperpage{145}
-  \item One-sided, \hyperpage{75}
-  \item \texttt{only marks}, \hyperpage{126}
-  \item \texttt{opacity}, \hyperpage{104}
-  \item Option, \hyperpage{4}
-  \item Optional Argument, \hyperpage{66}
-  \item \texttt{\textbackslash OR}, \hyperpage{68}
-  \item Ordered List, \hyperpage{50}
-  \item \texttt{out}, \hyperpage{112}
-  \item Outer Margin, \hyperpage{75}
-  \item \texttt{overlay}, \hyperpage{142}
-  \item Overleaf, \hyperpage{1}
-  \item \texttt{\textbackslash overrightarrow}, \hyperpage{41}
-  \item \texttt{\textbackslash overset}, \hyperpage{38}
-
-  \indexspace
-
-  \item Package, \hyperpage{4}
-  \item \texttt{pad after break}, \hyperpage{91}
-  \item Page Number, \hyperpage{76}
-  \item \texttt{\textbackslash pagemark}, \hyperpage{77}
-  \item \texttt{\textbackslash pagenumbering}, \hyperpage{82}
-  \item \texttt{\textbackslash pagestyle}, \hyperpage{76}
-  \item \texttt{\textbackslash paperheight}, \hyperpage{21}
-  \item \texttt{\textbackslash paperwidth}, \hyperpage{21}
-  \item \texttt{\textbackslash par}, \hyperpage{9}
-  \item Paragraph, \hyperpage{6}
-  \item \texttt{\textbackslash paragraph}, \hyperpage{6}
-  \item Parametric Curve, \hyperpage{127}
-  \item \texttt{\textbackslash parbox}, \hyperpage{25}
-  \item \texttt{parcolumns}, \hyperpage{60}
-  \item \texttt{\textbackslash parindent}, \hyperpage{21}
-  \item \texttt{\textbackslash parskip}, \hyperpage{21}
-  \item \texttt{parskip}, \hyperpage{20}
-  \item \texttt{\textbackslash part}, \hyperpage{7}
-  \item Path, \hyperpage{101}
-  \item \texttt{\textbackslash path}, \hyperpage{102}
-  \item \texttt{pattern}, \hyperpage{122}
-  \item \texttt{patterns}, \hyperpage{122}
-  \item pdfLaTeX, \hyperpage{2}
-  \item \texttt{pgf-pie}, \hyperpage{139}
-  \item \texttt{pgffor}, \hyperpage{69}
-  \item \texttt{pgfmath}, \hyperpage{68}
-  \item \texttt{\textbackslash pgfmathparse}, \hyperpage{68}
-  \item \texttt{\textbackslash pgfmathresult}, \hyperpage{68}
-  \item \texttt{\textbackslash pgfmathsetmacro}, \hyperpage{68}
-  \item \texttt{\textbackslash pgfornament}, \hyperpage{80}
-  \item \texttt{pgfornament}, \hyperpage{80}
-  \item \texttt{\textbackslash pgfornamentline}, \hyperpage{152}
-  \item \texttt{pgfplots}, \hyperpage{99}
-  \item \texttt{\textbackslash phantom}, \hyperpage{25}
-  \item \texttt{\textbackslash phantomsection}, \hyperpage{95}
-  \item \texttt{physics}, \hyperpage{44}
-  \item \texttt{pic}, \hyperpage{121}
-  \item \texttt{pic cs}, \hyperpage{145}
-  \item \texttt{\textbackslash pie}, \hyperpage{139}
-  \item Pie Chart, \hyperpage{139}
-  \item \texttt{plain}, \hyperpage{150}
-  \item Plain Page Style, \hyperpage{77}
-  \item \texttt{pmatrix}, \hyperpage{41}
-  \item Polar Coordinates, \hyperpage{100}
-  \item \texttt{pos}, \hyperpage{102}
-  \item \texttt{postaction}, \hyperpage{118}
-  \item Preamble, \hyperpage{3}
-  \item \texttt{\textbackslash printbibliography}, \hyperpage{153}
-  \item \texttt{\textbackslash printindex}, \hyperpage{86}
-  \item \texttt{\textbackslash prod}, \hyperpage{30}
-  \item \texttt{proof}, \hyperpage{93}
+\bigskip\par\penalty-50\textbf{N}\\[\medskipamount]
+  \item \texttt{name intersections},~\hyperpage{113}
+  \item \texttt{name path},~\hyperpage{113}
+  \item Nested List,~\hyperpage{50}
+  \item Nested Loop,~\hyperpage{70}
+  \item New Line,~\hyperpage{17}
+  \item \texttt{\textbackslash newboolean},~\hyperpage{97}
+  \item \texttt{\textbackslash newcommand*},~\hyperpage{65}
+  \item \texttt{\textbackslash newenvironment*},~\hyperpage{73}
+  \item \texttt{\textbackslash newline},~\hyperpage{17}
+  \item \texttt{\textbackslash newpairofpagestyles},~\hyperpage{150}
+  \item \texttt{\textbackslash newtcbtheorem},~\hyperpage{91}
+  \item \texttt{\textbackslash newtcolorbox},~\hyperpage{89}
+  \item Node,~\hyperpage{99}
+  \item \texttt{\textbackslash node},~\hyperpage{100}
+  \item \texttt{\textbackslash noindent},~\hyperpage{20}
+  \item \texttt{\textbackslash nolinenumbers},~\hyperpage{84}
+  \item \texttt{\textbackslash nonumber},~\hyperpage{34}
+  \item \texttt{\textbackslash norm},~\hyperpage{44}
+  \item \texttt{\textbackslash normalsize},~\hyperpage{13}
+  \item \texttt{\textbackslash NOT},~\hyperpage{69}
+  \item \texttt{number within},~\hyperpage{91}
+  \item Numbered List,~\hyperpage{50}
+  \item Numbering (Chapters, Sections, etc.),~\hyperpage{5}
+  \item \texttt{\textbackslash numexpr},~\hyperpage{68}
 
   \indexspace
-
-  \item \texttt{\textbackslash quad}, \hyperpage{46}
-  \item \texttt{quiver}, \hyperpage{129}
-  \item Quote, \hyperpage{150}
+\bigskip\par\penalty-50\textbf{O}\\[\medskipamount]
+  \item Odd-numbered,~\hyperpage{75}
+  \item \texttt{of},~\hyperpage{146}
+  \item \texttt{ofoot},~\hyperpage{76}
+  \item \texttt{ohead},~\hyperpage{76}
+  \item \texttt{on background layer},~\hyperpage{145}
+  \item One-sided,~\hyperpage{75}
+  \item \texttt{only marks},~\hyperpage{126}
+  \item \texttt{opacity},~\hyperpage{104}
+  \item Option,~\hyperpage{4}
+  \item Optional Argument,~\hyperpage{66}
+  \item \texttt{\textbackslash OR},~\hyperpage{68}
+  \item Ordered List,~\hyperpage{50}
+  \item \texttt{out},~\hyperpage{112}
+  \item Outer Margin,~\hyperpage{75}
+  \item \texttt{overlay},~\hyperpage{142}
+  \item Overleaf,~\hyperpage{1}
+  \item \texttt{\textbackslash overrightarrow},~\hyperpage{41}
+  \item \texttt{\textbackslash overset},~\hyperpage{38}
 
   \indexspace
+\bigskip\par\penalty-50\textbf{P}\\[\medskipamount]
+  \item Package,~\hyperpage{4}
+  \item \texttt{pad after break},~\hyperpage{91}
+  \item Page Number,~\hyperpage{76}
+  \item \texttt{\textbackslash pagemark},~\hyperpage{77}
+  \item \texttt{\textbackslash pagenumbering},~\hyperpage{82}
+  \item \texttt{\textbackslash pagestyle},~\hyperpage{76}
+  \item \texttt{\textbackslash paperheight},~\hyperpage{21}
+  \item \texttt{\textbackslash paperwidth},~\hyperpage{21}
+  \item \texttt{\textbackslash par},~\hyperpage{9}
+  \item Paragraph,~\hyperpage{6}
+  \item \texttt{\textbackslash paragraph},~\hyperpage{6}
+  \item Parametric Curve,~\hyperpage{127}
+  \item \texttt{\textbackslash parbox},~\hyperpage{25}
+  \item \texttt{parcolumns},~\hyperpage{60}
+  \item \texttt{\textbackslash parindent},~\hyperpage{21}
+  \item \texttt{\textbackslash parskip},~\hyperpage{21}
+  \item \texttt{parskip},~\hyperpage{20}
+  \item \texttt{\textbackslash part},~\hyperpage{7}
+  \item Path,~\hyperpage{101}
+  \item \texttt{\textbackslash path},~\hyperpage{102}
+  \item \texttt{pattern},~\hyperpage{122}
+  \item \texttt{patterns},~\hyperpage{122}
+  \item pdfLaTeX,~\hyperpage{2}
+  \item \texttt{pgf-pie},~\hyperpage{139}
+  \item \texttt{pgffor},~\hyperpage{69}
+  \item \texttt{pgfmath},~\hyperpage{68}
+  \item \texttt{\textbackslash pgfmathparse},~\hyperpage{68}
+  \item \texttt{\textbackslash pgfmathresult},~\hyperpage{68}
+  \item \texttt{\textbackslash pgfmathsetmacro},~\hyperpage{68}
+  \item \texttt{\textbackslash pgfornament},~\hyperpage{80}
+  \item \texttt{pgfornament},~\hyperpage{80}
+  \item \texttt{\textbackslash pgfornamentline},~\hyperpage{152}
+  \item \texttt{pgfplots},~\hyperpage{99}
+  \item \texttt{\textbackslash phantom},~\hyperpage{25}
+  \item \texttt{\textbackslash phantomsection},~\hyperpage{95}
+  \item \texttt{physics},~\hyperpage{44}
+  \item \texttt{pic},~\hyperpage{121}
+  \item \texttt{pic cs},~\hyperpage{145}
+  \item \texttt{\textbackslash pie},~\hyperpage{139}
+  \item Pie Chart,~\hyperpage{139}
+  \item \texttt{plain},~\hyperpage{150}
+  \item Plain Page Style,~\hyperpage{77}
+  \item \texttt{pmatrix},~\hyperpage{41}
+  \item Polar Coordinates,~\hyperpage{100}
+  \item \texttt{pos},~\hyperpage{102}
+  \item \texttt{postaction},~\hyperpage{118}
+  \item Preamble,~\hyperpage{3}
+  \item \texttt{\textbackslash printbibliography},~\hyperpage{153}
+  \item \texttt{\textbackslash printindex},~\hyperpage{86}
+  \item \texttt{\textbackslash prod},~\hyperpage{30}
+  \item \texttt{proof},~\hyperpage{93}
 
-  \item \texttt{\textbackslash raggedleft}, \hyperpage{18}
-  \item \texttt{\textbackslash raggedright}, \hyperpage{18}
-  \item \texttt{\textbackslash raisebox}, \hyperpage{25}
-  \item \texttt{rectangle}, \hyperpage{105}
-  \item \texttt{\textbackslash ref}, \hyperpage{6}, \hyperpage{35}, 
+  \indexspace
+\bigskip\par\penalty-50\textbf{Q}\\[\medskipamount]
+  \item \texttt{\textbackslash quad},~\hyperpage{46}
+  \item \texttt{quiver},~\hyperpage{129}
+  \item Quote,~\hyperpage{150}
+
+  \indexspace
+\bigskip\par\penalty-50\textbf{R}\\[\medskipamount]
+  \item \texttt{\textbackslash raggedleft},~\hyperpage{18}
+  \item \texttt{\textbackslash raggedright},~\hyperpage{18}
+  \item \texttt{\textbackslash raisebox},~\hyperpage{25}
+  \item \texttt{rectangle},~\hyperpage{105}
+  \item \texttt{\textbackslash ref},~\hyperpage{6}, \hyperpage{35}, 
 		\hyperpage{52}
-  \item Reference (Internal), \hyperpage{6}
-  \item Relative Coordinates, \hyperpage{103}
-  \item \texttt{remember}, \hyperpage{71}
-  \item \texttt{remember picture}, \hyperpage{140}
-  \item \texttt{\textbackslash renewcommand*}, \hyperpage{66}
-  \item \texttt{\textbackslash renewcounter}, \hyperpage{96}
-  \item \texttt{\textbackslash renewenvironment*}, \hyperpage{74}
-  \item \texttt{\textbackslash right}, \hyperpage{38}
-  \item \texttt{\textbackslash rightmark}, \hyperpage{77}
-  \item \texttt{\textbackslash rmfamily}, \hyperpage{11}
-  \item \texttt{rotate}, \hyperpage{106}
-  \item \texttt{rotate around}, \hyperpage{106}
-  \item Rubber Length, \hyperpage{80}
-  \item Rule, \hyperpage{26}
-  \item \texttt{\textbackslash rule}, \hyperpage{26}
+  \item Reference (Internal),~\hyperpage{6}
+  \item Relative Coordinates,~\hyperpage{103}
+  \item \texttt{remember},~\hyperpage{71}
+  \item \texttt{remember picture},~\hyperpage{140}
+  \item \texttt{\textbackslash renewcommand*},~\hyperpage{66}
+  \item \texttt{\textbackslash renewcounter},~\hyperpage{96}
+  \item \texttt{\textbackslash renewenvironment*},~\hyperpage{74}
+  \item \texttt{\textbackslash right},~\hyperpage{38}
+  \item \texttt{\textbackslash rightmark},~\hyperpage{77}
+  \item \texttt{\textbackslash rmfamily},~\hyperpage{11}
+  \item \texttt{rotate},~\hyperpage{106}
+  \item \texttt{rotate around},~\hyperpage{106}
+  \item Rubber Length,~\hyperpage{80}
+  \item Rule,~\hyperpage{26}
+  \item \texttt{\textbackslash rule},~\hyperpage{26}
 
   \indexspace
-
-  \item \texttt{samepage}, \hyperpage{64}
-  \item \texttt{samples}, \hyperpage{126}
-  \item Sans Serif, \hyperpage{11}
-  \item \texttt{scale}, \hyperpage{132}
-  \item \texttt{scope}, \hyperpage{108}
-  \item \texttt{scrbook}, \hyperpage{3}
-  \item \texttt{scrheadings}, \hyperpage{76}
-  \item \texttt{\textbackslash scriptsize}, \hyperpage{13}
-  \item \texttt{scrlayer-scrpage}, \hyperpage{76}
-  \item \texttt{\textbackslash scshape}, \hyperpage{15}
-  \item Section, \hyperpage{5}
-  \item \texttt{\textbackslash section}, \hyperpage{5}
-  \item \texttt{\textbackslash section*}, \hyperpage{6}
-  \item \texttt{\textbackslash sectionformat}, \hyperpage{79}
-  \item \texttt{\textbackslash sectionlinesformat}, \hyperpage{79}
-  \item \texttt{\textbackslash sectionmarkformat}, \hyperpage{78}
-  \item \texttt{\textbackslash selectfont}, \hyperpage{14}
-  \item Self-defined Command, \hyperpage{65}
-  \item Self-defined Environment, \hyperpage{73}
-  \item Serif, \hyperpage{11}
-  \item \texttt{\textbackslash setchapterpreamble}, \hyperpage{150}
-  \item \texttt{\textbackslash setcounter}, \hyperpage{5}
-  \item \texttt{\textbackslash setfootnoterule}, \hyperpage{84}
-  \item \texttt{\textbackslash setkomafont}, \hyperpage{77}
-  \item \texttt{\textbackslash setlength}, \hyperpage{21}
-  \item \texttt{sfdefaults}, \hyperpage{80}
-  \item \texttt{\textbackslash sffamily}, \hyperpage{11}
-  \item \texttt{shapes.geometric}, \hyperpage{145}
-  \item Shared Numbering, \hyperpage{59}, \hyperpage{92}
-  \item \texttt{\textbackslash shipoutAnswer}, \hyperpage{96}
-  \item \texttt{shorten}, \hyperpage{114}
-  \item \texttt{show path construction}, \hyperpage{123}
-  \item \texttt{\textbackslash SI}, \hyperpage{44}
-  \item \texttt{\textbackslash si}, \hyperpage{44}
-  \item \texttt{siunitx}, \hyperpage{44}
-  \item Size Command, \hyperpage{13}
-  \item \texttt{sloped}, \hyperpage{102}
-  \item \texttt{\textbackslash slshape}, \hyperpage{15}
-  \item \texttt{\textbackslash small}, \hyperpage{13}
-  \item \texttt{\textbackslash smallskip}, \hyperpage{24}
-  \item \texttt{\textbackslash smallskipamount}, \hyperpage{24}
-  \item \texttt{\textbackslash smash}, \hyperpage{30}
-  \item \texttt{split}, \hyperpage{33}
-  \item \texttt{Stealth}, \hyperpage{117}
-  \item \texttt{\textbackslash stretch}, \hyperpage{23}
-  \item \texttt{.sty}, \hyperpage{77}
-  \item Style, \hyperpage{119}
-  \item \texttt{/.style}, \hyperpage{119}
-  \item \texttt{style}, \hyperpage{156}
-  \item \texttt{style tile}, \hyperpage{156}
-  \item \texttt{subcaption}, \hyperpage{53}
-  \item \texttt{subequations}, \hyperpage{35}
-  \item \texttt{subfigure}, \hyperpage{53}
-  \item Subscript, \hyperpage{30}
-  \item Subsection, \hyperpage{6}
-  \item \texttt{\textbackslash subsection}, \hyperpage{6}
-  \item \texttt{\textbackslash subsection*}, \hyperpage{6}
-  \item \texttt{\textbackslash subsubsection}, \hyperpage{7}
-  \item \texttt{\textbackslash subtitle}, \hyperpage{81}
-  \item \texttt{\textbackslash sum}, \hyperpage{30}
-  \item Superscript, \hyperpage{30}
-  \item \texttt{surf}, \hyperpage{134}
-  \item Surface Plot, \hyperpage{134}
-  \item \texttt{symbolic coords}, \hyperpage{139}
-
-  \indexspace
-
-  \item Table, \hyperpage{56}
-  \item \texttt{table}, \hyperpage{56}, \hyperpage{137}
-  \item Table of Contents (TOC), \hyperpage{7}
-  \item \texttt{\textbackslash tableofcontents}, \hyperpage{7}
-  \item \texttt{tabular}, \hyperpage{56}
-  \item \texttt{tabularx}, \hyperpage{56}
-  \item \texttt{\textbackslash tcbset}, \hyperpage{92}
-  \item \texttt{tcolorbox}, \hyperpage{89}
-  \item \texttt{\textbackslash tcolorboxenvironment}, \hyperpage{93}
-  \item \texttt{tdplot\_main\_coords}, \hyperpage{136}
-  \item \texttt{\textbackslash tdplotdefinepoints}, \hyperpage{135}
-  \item \texttt{\textbackslash tdplotdrawpolytopearc}, \hyperpage{135}
-  \item \texttt{\textbackslash tdplotsetmaincoords}, \hyperpage{136}
-  \item \TeX, \hyperpage{30}
-  \item \texttt{.tex}, \hyperpage{3}
-  \item TeXstudio, \hyperpage{2}
-  \item \texttt{\textbackslash textbackslash}, \hyperpage{26}
-  \item \texttt{\textbackslash textbf}, \hyperpage{15}
-  \item \texttt{\textbackslash textcolor}, \hyperpage{16}
-  \item \texttt{\textbackslash textheight}, \hyperpage{21}
-  \item \texttt{\textbackslash textit}, \hyperpage{15}
-  \item \texttt{\textbackslash textmaybesf}, \hyperpage{80}
-  \item \texttt{\textbackslash textmd}, \hyperpage{15}
-  \item \texttt{\textbackslash textrm}, \hyperpage{11}
-  \item \texttt{\textbackslash textsc}, \hyperpage{15}
-  \item \texttt{\textbackslash textsf}, \hyperpage{11}
-  \item \texttt{\textbackslash textsl}, \hyperpage{15}
-  \item \texttt{\textbackslash texttt}, \hyperpage{11}
-  \item \texttt{\textbackslash textup}, \hyperpage{15}
-  \item \texttt{\textbackslash textwidth}, \hyperpage{21}
-  \item \texttt{\textbackslash thechapter}, \hyperpage{78}
-  \item \texttt{\textbackslash theExercise}, \hyperpage{95}
-  \item \texttt{\textbackslash thispagestyle}, \hyperpage{83}
-  \item TikZ, \hyperpage{99}
-  \item \texttt{tikz-3dplot}, \hyperpage{135}
-  \item \texttt{\textbackslash tikzmark}, \hyperpage{145}
-  \item \texttt{tikzpicture}, \hyperpage{99}
-  \item \texttt{\textbackslash tikzset}, \hyperpage{117}
-  \item \texttt{\textbackslash times}, \hyperpage{30}
-  \item \texttt{\textbackslash tiny}, \hyperpage{13}
-  \item \texttt{\textbackslash title}, \hyperpage{81}
-  \item Title Page, \hyperpage{81}
-  \item \texttt{titlepage}, \hyperpage{81}
-  \item \texttt{to}, \hyperpage{112}
-  \item \texttt{\textbackslash topmargin}, \hyperpage{21}
-  \item \texttt{\textbackslash topsep}, \hyperpage{21}
-  \item \texttt{\textbackslash ttfamily}, \hyperpage{11}
-  \item Two-sided, \hyperpage{75}
-  \item \texttt{twocolumn}, \hyperpage{64}
-  \item \texttt{twoside}, \hyperpage{75}
-  \item Typewriter, \hyperpage{11}
+\bigskip\par\penalty-50\textbf{S}\\[\medskipamount]
+  \item \texttt{samepage},~\hyperpage{64}
+  \item \texttt{samples},~\hyperpage{126}
+  \item Sans Serif,~\hyperpage{11}
+  \item \texttt{scale},~\hyperpage{132}
+  \item \texttt{scope},~\hyperpage{108}
+  \item \texttt{scrbook},~\hyperpage{3}
+  \item \texttt{scrheadings},~\hyperpage{76}
+  \item \texttt{\textbackslash scriptsize},~\hyperpage{13}
+  \item \texttt{scrlayer-scrpage},~\hyperpage{76}
+  \item \texttt{\textbackslash scshape},~\hyperpage{15}
+  \item Section,~\hyperpage{5}
+  \item \texttt{\textbackslash section},~\hyperpage{5}
+  \item \texttt{\textbackslash section*},~\hyperpage{6}
+  \item \texttt{\textbackslash sectionformat},~\hyperpage{79}
+  \item \texttt{\textbackslash sectionlinesformat},~\hyperpage{79}
+  \item \texttt{\textbackslash sectionmarkformat},~\hyperpage{78}
+  \item \texttt{\textbackslash selectfont},~\hyperpage{14}
+  \item Self-defined Command,~\hyperpage{65}
+  \item Self-defined Environment,~\hyperpage{73}
+  \item Serif,~\hyperpage{11}
+  \item \texttt{\textbackslash setchapterpreamble},~\hyperpage{150}
+  \item \texttt{\textbackslash setcounter},~\hyperpage{5}
+  \item \texttt{\textbackslash setfootnoterule},~\hyperpage{84}
+  \item \texttt{\textbackslash setkomafont},~\hyperpage{77}
+  \item \texttt{\textbackslash setlength},~\hyperpage{21}
+  \item \texttt{sfdefaults},~\hyperpage{80}
+  \item \texttt{\textbackslash sffamily},~\hyperpage{11}
+  \item \texttt{shapes.geometric},~\hyperpage{145}
+  \item Shared Numbering,~\hyperpage{59}, \hyperpage{92}
+  \item \texttt{\textbackslash shipoutAnswer},~\hyperpage{96}
+  \item \texttt{shorten},~\hyperpage{114}
+  \item \texttt{show path construction},~\hyperpage{123}
+  \item \texttt{\textbackslash SI},~\hyperpage{44}
+  \item \texttt{\textbackslash si},~\hyperpage{44}
+  \item \texttt{siunitx},~\hyperpage{44}
+  \item Size Command,~\hyperpage{13}
+  \item \texttt{sloped},~\hyperpage{102}
+  \item \texttt{\textbackslash slshape},~\hyperpage{15}
+  \item \texttt{\textbackslash small},~\hyperpage{13}
+  \item \texttt{\textbackslash smallskip},~\hyperpage{24}
+  \item \texttt{\textbackslash smallskipamount},~\hyperpage{24}
+  \item \texttt{\textbackslash smash},~\hyperpage{30}
+  \item \texttt{split},~\hyperpage{33}
+  \item \texttt{Stealth},~\hyperpage{117}
+  \item \texttt{\textbackslash stretch},~\hyperpage{23}
+  \item \texttt{.sty},~\hyperpage{77}
+  \item Style,~\hyperpage{119}
+  \item \texttt{/.style},~\hyperpage{119}
+  \item \texttt{style},~\hyperpage{156}
+  \item \texttt{style tile},~\hyperpage{156}
+  \item \texttt{subcaption},~\hyperpage{53}
+  \item \texttt{subequations},~\hyperpage{35}
+  \item \texttt{subfigure},~\hyperpage{53}
+  \item Subscript,~\hyperpage{30}
+  \item Subsection,~\hyperpage{6}
+  \item \texttt{\textbackslash subsection},~\hyperpage{6}
+  \item \texttt{\textbackslash subsection*},~\hyperpage{6}
+  \item \texttt{\textbackslash subsubsection},~\hyperpage{7}
+  \item \texttt{\textbackslash subtitle},~\hyperpage{81}
+  \item \texttt{\textbackslash sum},~\hyperpage{30}
+  \item Superscript,~\hyperpage{30}
+  \item \texttt{surf},~\hyperpage{134}
+  \item Surface Plot,~\hyperpage{134}
+  \item \texttt{symbolic coords},~\hyperpage{139}
 
   \indexspace
+\bigskip\par\penalty-50\textbf{T}\\[\medskipamount]
+  \item Table,~\hyperpage{56}
+  \item \texttt{table},~\hyperpage{56}, \hyperpage{137}
+  \item Table of Contents (TOC),~\hyperpage{7}
+  \item \texttt{\textbackslash tableofcontents},~\hyperpage{7}
+  \item \texttt{tabular},~\hyperpage{56}
+  \item \texttt{tabularx},~\hyperpage{56}
+  \item \texttt{\textbackslash tcbset},~\hyperpage{92}
+  \item \texttt{tcolorbox},~\hyperpage{89}
+  \item \texttt{\textbackslash tcolorboxenvironment},~\hyperpage{93}
+  \item \texttt{tdplot\_main\_coords},~\hyperpage{136}
+  \item \texttt{\textbackslash tdplotdefinepoints},~\hyperpage{135}
+  \item \texttt{\textbackslash tdplotdrawpolytopearc},~\hyperpage{135}
+  \item \texttt{\textbackslash tdplotsetmaincoords},~\hyperpage{136}
+  \item \TeX,~\hyperpage{30}
+  \item \texttt{.tex},~\hyperpage{3}
+  \item TeXstudio,~\hyperpage{2}
+  \item \texttt{\textbackslash textbackslash},~\hyperpage{26}
+  \item \texttt{\textbackslash textbf},~\hyperpage{15}
+  \item \texttt{\textbackslash textcolor},~\hyperpage{16}
+  \item \texttt{\textbackslash textheight},~\hyperpage{21}
+  \item \texttt{\textbackslash textit},~\hyperpage{15}
+  \item \texttt{\textbackslash textmaybesf},~\hyperpage{80}
+  \item \texttt{\textbackslash textmd},~\hyperpage{15}
+  \item \texttt{\textbackslash textrm},~\hyperpage{11}
+  \item \texttt{\textbackslash textsc},~\hyperpage{15}
+  \item \texttt{\textbackslash textsf},~\hyperpage{11}
+  \item \texttt{\textbackslash textsl},~\hyperpage{15}
+  \item \texttt{\textbackslash texttt},~\hyperpage{11}
+  \item \texttt{\textbackslash textup},~\hyperpage{15}
+  \item \texttt{\textbackslash textwidth},~\hyperpage{21}
+  \item \texttt{\textbackslash thechapter},~\hyperpage{78}
+  \item \texttt{\textbackslash theExercise},~\hyperpage{95}
+  \item \texttt{\textbackslash thispagestyle},~\hyperpage{83}
+  \item TikZ,~\hyperpage{99}
+  \item \texttt{tikz-3dplot},~\hyperpage{135}
+  \item \texttt{\textbackslash tikzmark},~\hyperpage{145}
+  \item \texttt{tikzpicture},~\hyperpage{99}
+  \item \texttt{\textbackslash tikzset},~\hyperpage{117}
+  \item \texttt{\textbackslash times},~\hyperpage{30}
+  \item \texttt{\textbackslash tiny},~\hyperpage{13}
+  \item \texttt{\textbackslash title},~\hyperpage{81}
+  \item Title Page,~\hyperpage{81}
+  \item \texttt{titlepage},~\hyperpage{81}
+  \item \texttt{to},~\hyperpage{112}
+  \item \texttt{\textbackslash topmargin},~\hyperpage{21}
+  \item \texttt{\textbackslash topsep},~\hyperpage{21}
+  \item \texttt{\textbackslash ttfamily},~\hyperpage{11}
+  \item Two-sided,~\hyperpage{75}
+  \item \texttt{twocolumn},~\hyperpage{64}
+  \item \texttt{twoside},~\hyperpage{75}
+  \item Typewriter,~\hyperpage{11}
 
-  \item \texttt{\textbackslash underline}, \hyperpage{16}
-  \item \texttt{\textbackslash underset}, \hyperpage{38}
-  \item Unordered List, \hyperpage{50}
-  \item \texttt{\textbackslash uppertitleback}, \hyperpage{82}
-  \item \texttt{\textbackslash upshape}, \hyperpage{15}
-  \item \texttt{use counter from}, \hyperpage{92}
-  \item \texttt{\textbackslash usepackage}, \hyperpage{4}, 
+  \indexspace
+\bigskip\par\penalty-50\textbf{U}\\[\medskipamount]
+  \item \texttt{\textbackslash underline},~\hyperpage{16}
+  \item \texttt{\textbackslash underset},~\hyperpage{38}
+  \item Unordered List,~\hyperpage{50}
+  \item \texttt{\textbackslash uppertitleback},~\hyperpage{82}
+  \item \texttt{\textbackslash upshape},~\hyperpage{15}
+  \item \texttt{use counter from},~\hyperpage{92}
+  \item \texttt{\textbackslash usepackage},~\hyperpage{4}, 
 		\hyperpage{77}
 
   \indexspace
-
-  \item \texttt{\textbackslash vdots}, \hyperpage{38}
-  \item \texttt{\textbackslash vec}, \hyperpage{41}
-  \item \texttt{veclen}, \hyperpage{109}
-  \item Vector, \hyperpage{41}
-  \item Vector Field, \hyperpage{129}
-  \item \texttt{\textbackslash verb}, \hyperpage{26}
-  \item Verbatim, \hyperpage{26}
-  \item Vertical Box, \hyperpage{25}
-  \item Vertical Space, \hyperpage{21}
-  \item \texttt{\textbackslash vfill}, \hyperpage{23}
-  \item \texttt{view}, \hyperpage{135}
-  \item Visual Studio Code, \hyperpage{2}
-  \item \texttt{vmatrix}, \hyperpage{42}
-  \item \texttt{\textbackslash vrule}, \hyperpage{26}
-  \item \texttt{\textbackslash vspace}, \hyperpage{21}
-  \item \texttt{\textbackslash vspace*}, \hyperpage{23}
-
-  \indexspace
-
-  \item \texttt{xbar}, \hyperpage{139}
-  \item \texttt{xcolor}, \hyperpage{16}
-  \item XeLaTeX, \hyperpage{2}
-  \item \texttt{xshift}, \hyperpage{104}
-  \item \texttt{xtick}, \hyperpage{139}
+\bigskip\par\penalty-50\textbf{V}\\[\medskipamount]
+  \item \texttt{\textbackslash vdots},~\hyperpage{38}
+  \item \texttt{\textbackslash vec},~\hyperpage{41}
+  \item \texttt{veclen},~\hyperpage{109}
+  \item Vector,~\hyperpage{41}
+  \item Vector Field,~\hyperpage{129}
+  \item \texttt{\textbackslash verb},~\hyperpage{26}
+  \item Verbatim,~\hyperpage{26}
+  \item Vertical Box,~\hyperpage{25}
+  \item Vertical Space,~\hyperpage{21}
+  \item \texttt{\textbackslash vfill},~\hyperpage{23}
+  \item \texttt{view},~\hyperpage{135}
+  \item Visual Studio Code,~\hyperpage{2}
+  \item \texttt{vmatrix},~\hyperpage{42}
+  \item \texttt{\textbackslash vrule},~\hyperpage{26}
+  \item \texttt{\textbackslash vspace},~\hyperpage{21}
+  \item \texttt{\textbackslash vspace*},~\hyperpage{23}
 
   \indexspace
+\bigskip\par\penalty-50\textbf{X}\\[\medskipamount]
+  \item \texttt{xbar},~\hyperpage{139}
+  \item \texttt{xcolor},~\hyperpage{16}
+  \item XeLaTeX,~\hyperpage{2}
+  \item \texttt{xshift},~\hyperpage{104}
+  \item \texttt{xtick},~\hyperpage{139}
 
-  \item \texttt{ybar}, \hyperpage{139}
-  \item \texttt{yshift}, \hyperpage{104}
-  \item \texttt{ytick}, \hyperpage{139}
+  \indexspace
+\bigskip\par\penalty-50\textbf{Y}\\[\medskipamount]
+  \item \texttt{ybar},~\hyperpage{139}
+  \item \texttt{yshift},~\hyperpage{104}
+  \item \texttt{ytick},~\hyperpage{139}
 
 \end{theindex}

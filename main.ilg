@@ -1,4 +1,5 @@
 This is makeindex, version 2.17 [TeX Live 2025] (kpathsea + Thai support).
+Scanning style file ./myindexstyle.ist........done (8 attributes redefined, 0 ignored).
 Scanning input file main.idx....
 !! Input index error (file = main.idx, line = 242):
    -- Extra `|' at position 11 of first argument.
