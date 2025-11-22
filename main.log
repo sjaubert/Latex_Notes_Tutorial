@@ -1881,4 +1881,672 @@ File: T1NotoSansMono-TLF.fd 2021/09/07 (autoinst) Font definitions for T1/NotoSa
 )
 LaTeX Font Info:    Font shape `T1/NotoSansMono-TLF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 10.
-Package micro
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `NotoSansMono-TLF' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+
+[3
+
+
+
+
+
+{c:/texlive/2025/texmf-dist/fonts/enc/dvips/noto/a_cwvxtj.enc}]
+LaTeX Font Info:    Font shape `T1/NotoSansMono-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 14.
+Package hyperref Info: bookmark level for unknown exercise defaults to 0 on input line 24.
+LaTeX Font Info:    Font shape `T1/NotoSans-TLF/b/n' will be
+(Font)              scaled to size 14.4pt on input line 40.
+
+
+[4]
+LaTeX Font Info:    Font shape `T1/NotoSansMono-TLF/b/n' will be
+(Font)              scaled to size 10.0pt on input line 46.
+
+
+[5]
+
+[6]
+
+[7]
+
+[8])
+
+[9]
+\openout2 = `ch2_text_format.aux'.
+
+ (./ch2_text_format.tex
+
+[10
+
+
+
+
+
+]
+chapter 2.
+(c:/texlive/2025/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+Overfull \hbox (11.74965pt too wide) in paragraph at lines 1--1
+[][] 
+ []
+
+
+
+[11]
+
+[12]
+Underfull \hbox (badness 1616) in paragraph at lines 97--97
+[][]|\T1/cmr/m/it/12 (+20) The var-i-ous com-
+ []
+
+
+Underfull \hbox (badness 3815) in paragraph at lines 97--97
+\T1/cmr/m/it/12 (+20) ling font size in
+ []
+
+
+
+[13]
+
+LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <15> not available
+(Font)              size <14.4> substituted on input line 125.
+
+
+
+[14]
+
+[15]
+Overfull \hbox (3.58812pt too wide) in paragraph at lines 195--196
+\T1/NotoSansMono-TLF/m/n/12 \definecolor{<color_name>}{<color_model>}{<values>}[]\T1/cmr/m/n/12 (-20) . There are
+ []
+
+
+
+[16]
+
+[17]
+
+[18]
+
+[19]
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 323--323
+[]|\T1/NotoSansMono-TLF/m/n/12 \fboxsep \T1/cmr/m/n/12 (+20) and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--323
+[]|\T1/NotoSansMono-TLF/m/n/12 \paperheight
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--323
+[]|\T1/NotoSansMono-TLF/m/n/12 \topsep \T1/cmr/m/n/12 (+20) and
+ []
+
+
+
+[21]
+
+[22]
+
+[23]
+Overfull \hbox (202.79523pt too wide) in paragraph at lines 385--388
+\T1/cmr/m/n/12 (-20) per-fect plan to-mor-row. []
+ []
+
+
+
+[24]
+
+[25]
+
+[26]
+
+[27])
+
+[28]
+\openout2 = `ch3_maths_writing.aux'.
+
+ (./ch3_maths_writing.tex
+chapter 3.
+(c:/texlive/2025/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+Overfull \hbox (11.74965pt too wide) in paragraph at lines 1--1
+[][] 
+ []
+
+
+
+[29
+
+
+
+
+
+]
+Underfull \hbox (badness 7685) in paragraph at lines 45--45
+\T1/cmr/m/n/12 (+20) are sim-ply like \T1/NotoSansMono-TLF/m/n/12 \arcsin{}\T1/cmr/m/n/12 (+20) :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+[][]\T1/cmr/m/n/12 (+20) http://www.phys.uri.edu/^^Cnigh/
+ []
+
+
+
+[30]
+
+[31]
+
+[32]
+
+[33]
+
+[34]
+
+[35]
+
+[36]
+pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.7}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.266 ...h int\_\{\}\^{}\{\}} for multiple times.}
+                                                  
+
+[37]
+Overfull \hbox (0.55014pt too wide) in paragraph at lines 304--304
+[]|\T1/cmr/m/n/12 (-20) Function/Symbol(s)| 
+ []
+
+
+Underfull \hbox (badness 3148) in paragraph at lines 304--304
+[]|\T1/cmr/m/n/12 (+20) Approximately equal to,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+[]|\T1/cmr/m/n/12 (+20) Perpendicular/orthogonal
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 304--304
+[]|\T1/cmr/m/n/12 (+20) Various el-lipses, be-cause
+ []
+
+
+Overfull \hbox (0.55014pt too wide) in paragraph at lines 331--331
+[]|\T1/cmr/m/n/12 (-20) Function/Symbol(s)| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--331
+[]|\T1/cmr/m/n/12 (+20) Single ar-rows
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--331
+[]|\T1/cmr/m/n/12 (+20) Double ar-rows
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--331
+[]|\T1/cmr/m/n/12 (+20) Overbrace and
+ []
+
+
+
+[38]
+
+[39]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[40]
+
+[41]
+
+[42]
+
+[43]
+
+[44]
+
+[45]
+
+[46]
+
+[47])
+
+[48]
+\openout2 = `ch4_list_figure.aux'.
+
+ (./ch4_list_figure.tex
+chapter 4.
+(c:/texlive/2025/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+Overfull \hbox (11.74965pt too wide) in paragraph at lines 1--1
+[][] 
+ []
+
+
+
+[49
+
+
+
+
+
+]
+
+[50]
+Overfull \hbox (7.9218pt too wide) in paragraph at lines 75--76
+\T1/cmr/m/n/12 (-20) There are other pos-si-ble choices for [][]\T1/NotoSansMono-TLF/m/n/12 label[]\T1/cmr/m/n/12 (-20) , such as \T1/NotoSansMono-TLF/m/n/12 \arabic*\T1/cmr/m/n/12 (-20) , \T1/NotoSansMono-TLF/m/n/12 \roman*\T1/cmr/m/n/12 (-20) , \T1/NotoSansMono-TLF/m/n/12 \Roman*\T1/cmr/m/n/12 (-20) ,
+ []
+
+
+
+[51]
+<graphics/Ada_Lovelace_portrait.jpg, id=1078, 2448.14626pt x 3517.14pt>
+File: graphics/Ada_Lovelace_portrait.jpg Graphic file (type jpg)
+<use graphics/Ada_Lovelace_portrait.jpg>
+Package pdftex.def Info: graphics/Ada_Lovelace_portrait.jpg  used on input line 104.
+(pdftex.def)             Requested size: 167.29967pt x 240.32156pt.
+
+
+[52]
+
+[53 <./graphics/Ada_Lovelace_portrait.jpg>]
+<graphics/MTS108082203.200812.jpg, id=1118, 513.92pt x 513.92pt>
+File: graphics/MTS108082203.200812.jpg Graphic file (type jpg)
+<use graphics/MTS108082203.200812.jpg>
+Package pdftex.def Info: graphics/MTS108082203.200812.jpg  used on input line 135.
+(pdftex.def)             Requested size: 150.57153pt x 150.56996pt.
+<graphics/MTS212072303.201208.jpg, id=1119, 513.92pt x 513.92pt>
+File: graphics/MTS212072303.201208.jpg Graphic file (type jpg)
+<use graphics/MTS212072303.201208.jpg>
+Package pdftex.def Info: graphics/MTS212072303.201208.jpg  used on input line 140.
+(pdftex.def)             Requested size: 150.57153pt x 150.56996pt.
+
+
+[54 <./graphics/MTS108082203.200812.jpg> <./graphics/MTS212072303.201208.jpg>]
+<graphics/HMW816080103.201604.jpg, id=1139, 513.92pt x 513.92pt>
+File: graphics/HMW816080103.201604.jpg Graphic file (type jpg)
+<use graphics/HMW816080103.201604.jpg>
+Package pdftex.def Info: graphics/HMW816080103.201604.jpg  used on input line 171.
+(pdftex.def)             Requested size: 150.57153pt x 150.56996pt.
+<graphics/HMW817082303.201713.jpg, id=1140, 513.92pt x 513.92pt>
+File: graphics/HMW817082303.201713.jpg Graphic file (type jpg)
+<use graphics/HMW817082303.201713.jpg>
+Package pdftex.def Info: graphics/HMW817082303.201713.jpg  used on input line 176.
+(pdftex.def)             Requested size: 150.57153pt x 150.56996pt.
+<graphics/HMW818091603.201822.jpg, id=1141, 513.92pt x 513.92pt>
+File: graphics/HMW818091603.201822.jpg Graphic file (type jpg)
+<use graphics/HMW818091603.201822.jpg>
+Package pdftex.def Info: graphics/HMW818091603.201822.jpg  used on input line 181.
+(pdftex.def)             Requested size: 150.57153pt x 150.56996pt.
+<graphics/HMW923090103.202309.jpg, id=1142, 513.92pt x 513.92pt>
+File: graphics/HMW923090103.202309.jpg Graphic file (type jpg)
+<use graphics/HMW923090103.202309.jpg>
+Package pdftex.def Info: graphics/HMW923090103.202309.jpg  used on input line 186.
+(pdftex.def)             Requested size: 150.57153pt x 150.56996pt.
+
+
+[55 <./graphics/HMW816080103.201604.jpg> <./graphics/HMW817082303.201713.jpg> <./graphics/HMW818091603.201822.jpg> <./graphics/HMW923090103.202309.jpg>]
+Overfull \hbox (5.7084pt too wide) in paragraph at lines 229--230
+\T1/NotoSansMono-TLF/m/n/12 }|>{\raggedleft}X|>{\raggedleft\arraybackslash}X|} \T1/cmr/m/n/12 (-20) in-di-cates the
+ []
+
+
+
+[56]
+
+[57]
+
+[58]
+
+[59]
+
+[60]
+\pc@column@1=\box156
+\pc@column@width@1=\dimen385
+\pc@column@2=\box157
+\pc@column@width@2=\dimen386
+Package parcolumns Info: Width of column 1 calculated as 197.38065pt on input line 342.
+Package parcolumns Info: Width of column 2 calculated as 197.38065pt on input line 342.
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--342
+
+ []
+
+
+
+[61]
+
+[62]
+
+
+
+
+
+[63]
+
+
+
+
+
+)
+
+[64]
+\openout2 = `ch5_commands_envs.aux'.
+
+ (./ch5_commands_envs.tex
+chapter 5.
+(c:/texlive/2025/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+Overfull \hbox (11.74965pt too wide) in paragraph at lines 1--1
+[][] 
+ []
+
+
+
+[65
+
+
+
+
+
+]
+
+[66]
+Overfull \hbox (0.8476pt too wide) in paragraph at lines 62--63
+\T1/cmr/m/n/12 (-20) ex-pres-sions. The us-age mainly takes the form of \T1/NotoSansMono-TLF/m/n/12 \pgfmathparse{<expression
+ []
+
+
+
+[67]
+
+[68]
+Overfull \hbox (0.34459pt too wide) in paragraph at lines 87--88
+\T1/cmr/m/n/12 (-20) be help-ful: \T1/NotoSansMono-TLF/m/n/12 \equal{<string>}{<string>}[] \T1/cmr/m/n/12 (-20) and \T1/NotoSansMono-TLF/m/n/12 \isundefined{<command
+ []
+
+
+
+[69]
+
+[70]
+
+[71]
+
+[72])
+Overfull \hbox (2.41978pt too wide) in paragraph at lines 227--37
+[] []\T1/NotoSans-TLF/b/n/12 (-20) Renewing En-vi-ron-ments[][] \T1/cmr/m/n/12 (-20) There is also the con-cur-rent \T1/NotoSansMono-TLF/m/n/12 \renewenvironment*[]
+ []
+
+
+
+[73]
+
+[74]
+\openout2 = `ch6_design_layout.aux'.
+
+ (./ch6_design_layout.tex
+chapter 6.
+(c:/texlive/2025/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+Overfull \hbox (11.74965pt too wide) in paragraph at lines 1--1
+[][] 
+ []
+
+
+
+[75
+
+
+
+
+
+]
+
+[76]
+
+[77]
+
+[78]
+Overfull \hbox (4.35464pt too wide) in paragraph at lines 80--81
+\T1/cmr/m/n/12 (-20) In ad-di-tion, we can again call \T1/NotoSansMono-TLF/m/n/12 \renewcommand* \T1/cmr/m/n/12 (-20) to ma-nip-u-late \T1/NotoSansMono-TLF/m/n/12 \chapterformat[]\T1/cmr/m/n/12 (-20) .
+ []
+
+
+
+[79]
+
+[80]
+
+[81]
+
+[82]
+
+[83]
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
+[]\T1/cmr/m/n/12 (+20) Hi, it
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
+\T1/cmr/m/n/12 (+20) should
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
+\T1/cmr/m/n/12 (+20) be wide
+ []
+
+
+Underfull \hbox (badness 6575) in paragraph at lines 207--207
+\T1/cmr/m/n/12 (+20) enough to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
+\T1/cmr/m/n/12 (+20) im-por-tant
+ []
+
+LaTeX Font Info:    Font shape `T1/NotoSans-TLF/m/n' will be
+(Font)              scaled to size 6.0pt on input line 214.
+
+
+[84]
+
+[85]
+
+[86])
+
+[87]
+\openout2 = `ch7_thm_ex.aux'.
+
+ (./ch7_thm_ex.tex
+
+[88
+
+
+
+
+
+]
+chapter 7.
+(c:/texlive/2025/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+Overfull \hbox (11.74965pt too wide) in paragraph at lines 1--1
+[][] 
+ []
+
+
+
+[89]
+
+[90]
+
+[91]
+
+[92]
+
+[93]
+Underfull \vbox (badness 2269) has occurred while \output is active []
+
+
+
+[94]
+Overfull \hbox (0.64175pt too wide) in paragraph at lines 181--182
+\T1/cmr/m/n/12 (-20) ex-er-cises. This can be done by ap-ply-ing \T1/NotoSansMono-TLF/m/n/12 \renewcommand* \T1/cmr/m/n/12 (-20) to the \T1/NotoSansMono-TLF/m/n/12 \theExercise[]
+ []
+
+
+
+[95]
+
+[96])
+
+[97]
+\openout2 = `ch8_tikz_plot.aux'.
+
+ (./ch8_tikz_plot.tex
+
+[98
+
+
+
+
+
+]
+chapter 8.
+(c:/texlive/2025/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+Overfull \hbox (11.74965pt too wide) in paragraph at lines 1--1
+[][] 
+ []
+
+
+
+[99]
+
+[100]
+
+[101]
+
+[102]
+
+[103]
+Underfull \vbox (badness 3428) has occurred while \output is active []
+
+
+
+[104]
+
+[105]
+
+[106]
+
+[107]
+
+[108]
+
+[109]
+Underfull \vbox (badness 1038) has occurred while \output is active []
+
+
+
+[110]
+
+[111]
+
+[112]
+
+[113]
+
+[114]
+
+[115]
+
+[116]
+
+[117]
+
+[118]
+
+[119]
+Underfull \vbox (badness 6725) has occurred while \output is active []
+
+
+
+[120]
+
+[121]
+
+[122]
+
+[123]
+
+[124]
+
+Package pgfplots Warning: You have an axis with empty range (in direction y). Replacing it with a default range and clearing all plots. on input line 892.
+
+ [warning /pgfplots/warning/empty range cleared axis]
+
+Overfull \hbox (18.4074pt too wide) in paragraph at lines 893--894
+ [][] 
+ []
+
+
+
+[125]
+
+[126]
+
+[127]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[128]
+
+Package pgfplots Warning: Axis range for axis z is approximately empty; enlarging it (it is [0.0:0.0]) on input line 1007.
+
+ [warning /pgfplots/warning/approx empty range enlarged]
+)
+
+[129]
+\openout2 = `ch9_more_tikz.aux'.
+
+ (./ch9_more_tikz.tex
+
+[130
+
+
+
+
+
+]
+chapter 9.
+(c:/texlive/2025/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+Overfull \hbox (11.74965pt too wide) in paragraph at lines 1--1
+[][] 
+ []
+
+
+
+[131]
+
+[132]
+Underfull \vbox (badness 3439) has occurred while \output is active []
+
+
+
+[133]
+
+[134]
+
+[135]
+Missing character: There is no - in font nullfont!
+Missing characte
