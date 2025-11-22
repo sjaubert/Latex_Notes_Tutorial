@@ -942,3 +942,12 @@ INPUT ./ch8_tikz_plot.tex
 INPUT ./ch8_tikz_plot.tex
 INPUT ch8_tikz_plot.tex
 INPUT c:/texlive/2025/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf
+INPUT ./ch9_more_tikz.tex
+INPUT ./ch9_more_tikz.tex
+OUTPUT ch9_more_tikz.aux
+INPUT ./ch9_more_tikz.tex
+INPUT ./ch9_more_tikz.tex
+INPUT ch9_more_tikz.tex
+INPUT c:/texlive/2025/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf
+INPUT co2_annmean_mlo.csv
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ecti0600.tfm
